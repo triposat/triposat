@@ -2,7 +2,7 @@
 
 ## <h3 align="center">I'm a Student, Programmer, Designer, Motivator!<h3/>
 
-- 🔭 **I’m currently working on :**
+- 🔭 **I’m Currently Working on :**
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Canva_Designing-%7C-red)
 ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
 ![](https://img.shields.io/badge/Banner_Designing-%7C-yellow)
@@ -26,15 +26,3 @@
 ![](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/128/Word-2-icon.png)
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/128/Dev-icon.png)
 ![](https://icons.iconarchive.com/icons/treetog/i/128/PSD-File-icon.png)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <div class="img1">
- <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin"></a>
-    </div>
-</body>
-</html>
