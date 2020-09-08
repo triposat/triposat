@@ -23,3 +23,4 @@
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/pycharm-icon.png)
 ![](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/128/Word-2-icon.png)
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/128/Dev-icon.png)
+![](https://icons.iconarchive.com/icons/treetog/i/128/PSD-File-icon.png)
