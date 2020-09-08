@@ -26,3 +26,15 @@
 ![](https://icons.iconarchive.com/icons/ncrow/mega-pack-1/128/Word-2-icon.png)
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/128/Dev-icon.png)
 ![](https://icons.iconarchive.com/icons/treetog/i/128/PSD-File-icon.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="img1">
+ <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin"></a>
+    </div>
+</body>
+</html>
