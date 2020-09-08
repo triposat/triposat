@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become Expert in PYTHON and DESIGNING 🎯🎯
 - ✔️ Fun fact: I love Listening to Music and Doing Yoga!
-- ⚡⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 👍
+- ⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 
 ### Follow Me on Linkedin:
   <p align="left">
 <a target="_blank" href="https://linkedin.com/in/satyam-tripathi-536b561b1t"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-tripathi-536b561b1t" height="30" width="50" /></a>   
