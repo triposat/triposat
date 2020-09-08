@@ -1,7 +1,7 @@
 ### Hi there, I'm Satyam Tripathi 👋
 
 
-## I'm a Student, Programmer, Designer, Motivator!
+## I'm a Student, Programmer, Designer, Motivator
 
 - 🔭 I’m currently working on a PYTHON and CANVA Designing
 - 🌱 I’m currently learning Programming and Designing  🤣
