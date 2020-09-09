@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become Expert in **PYTHON and DESIGNING** 🎯🎯
 - ✔️ Fun fact : I love **Listening to Music and Doing Yoga!**
-- 🎯 Future Goal : **Become Expert in ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) , ![](https://img.shields.io/badge/Python_Django-%7C-blue) ,![](https://img.shields.io/badge/Python_Flask-%7C-brown) ,![](https://img.shields.io/badge/DS&Algo-%7C-pink) ,![](https://img.shields.io/badge/Python_Tkinter-%7C-violet) ,![](https://img.shields.io/badge/App_Designing-%7C-indigo) , ![](https://img.shields.io/badge/Ethical_Hacking-%7C-yellow)**
+- 🎯 Future Goal : **Become Expert in ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Python_Flask-%7C-brown) ![](https://img.shields.io/badge/DS&Algo-%7C-pink) ![](https://img.shields.io/badge/Python_Tkinter-%7C-violet) ![](https://img.shields.io/badge/App_Designing-%7C-indigo) ![](https://img.shields.io/badge/Ethical_Hacking-%7C-yellow)**
 - ⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 
 ### <h1 align="center">Follow Me on Social Media : <h1/>
  <body>
