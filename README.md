@@ -11,15 +11,17 @@
 - 🥅 2020 Goals: Become Expert in **PYTHON and DESIGNING** 🎯🎯
 - ✔️ Fun fact: I love **Listening to Music and Doing Yoga!**
 - ⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 
-### Follow Me on Social Media:
-  <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/satyam-tripathi-536b561b1"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-tripathi-536b561b1t" height="30" width="50" /></a>   
- <a target="_blank" href="https://github.com/Iamtripathisatyam"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Iamtripathisatyam" height="30" width="50" /></a>    
-</p> 
-                    
+### <h1 align="center">Follow Me on Social Media : <h1/>
+ <body>
+    <div class="img1">
+        <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Iamtripathisatyam" /></a><a href="thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
 
-### Languages and Tools:
-
+ 
+ </div>
+</body>
+   <br/>                 
+<h1 align="center">Languages and Tools :<h1/>
+  
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png)
 ![](https://icons.iconarchive.com/icons/hydrattz/multipurpose-alphabet/128/Letter-C-blue-icon.png)
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/pycharm-icon.png)
@@ -28,8 +30,4 @@
 ![](https://icons.iconarchive.com/icons/treetog/i/128/PSD-File-icon.png)
 
 
-<body>
-    <div class="img1">
-        <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a>
-    </div>
-</body>
+
