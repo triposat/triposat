@@ -30,4 +30,4 @@
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/pycharm-icon.png)
 ![](https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png)
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png)
-![](https://icons.iconarchive.com/icons/ziggy19/adobe-cc-tilt/72/Ps-icon.png)
+![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
