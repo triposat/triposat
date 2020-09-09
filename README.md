@@ -14,10 +14,8 @@
 ### <h1 align="center">Follow Me on Social Media : <h1/>
  <body>
     <div class="img1">
-        <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Iamtripathisatyam" /></a><a href="thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
-
- 
- </div>
+        <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Iamtripathisatyam" /></a> <a href="thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"/></a>
+</div>
 </body>
    <br/>                 
 <h1 align="center">Languages and Tools :<h1/>
