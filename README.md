@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Canva_Designing-%7C-red)
 ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
 ![](https://img.shields.io/badge/Banner_Designing-%7C-yellow)
-- 🌱 I’m currently learning **Programming and Designing** ✌️✌️
+- 🌱 I’m currently learning **Programming and Designing!** ✌️✌️
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become Expert in **PYTHON and DESIGNING** 🎯🎯
 - ✔️ Fun fact: I love **Listening to Music and Doing Yoga!**
