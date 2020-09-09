@@ -13,7 +13,7 @@
 - ⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 
 ### Follow Me on Social Media:
   <p align="left">
-<a target="_blank" href="https://linkedin.com/in/satyam-tripathi-536b561b1t"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-tripathi-536b561b1t" height="30" width="50" /></a>   
+<a target="_blank" href="www.linkedin.com/in/satyam-tripathi-536b561b1"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-tripathi-536b561b1t" height="30" width="50" /></a>   
  <a target="_blank" href="https://github.com/Iamtripathisatyam"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Iamtripathisatyam" height="30" width="50" /></a>    
 </p> 
                     
