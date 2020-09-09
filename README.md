@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi there, I'm Satyam Tripathi 👋<h1/>
-## <h3 align="center">I'm a Student, Programmer, Designer, Motivator!<h3/>
+## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
+ 
+- ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
 - 🔭 **I’m Currently Working on :**
 ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Canva_Designing-%7C-orange)
 ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
@@ -7,7 +9,8 @@
 - 🌱 I’m currently learning **Programming and Designing!** ✌️✌️
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become Expert in **PYTHON and DESIGNING** 🎯🎯
-- ✔️ Fun fact: I love **Listening to Music and Doing Yoga!**
+- ✔️ Fun fact : I love **Listening to Music and Doing Yoga!**
+- 🎯 Future Goal : **Become Expert in ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) , ![](https://img.shields.io/badge/Python_Django-%7C-blue) ,![](https://img.shields.io/badge/Python_Flask-%7C-brown) ,![](https://img.shields.io/badge/DS&Algo-%7C-pink) ,![](https://img.shields.io/badge/Python_Tkinter-%7C-violet) ,![](https://img.shields.io/badge/App_Designer-%7C-indigo) , ![](https://img.shields.io/badge/Ethical_Hacker-%7C-yellow)**
 - ⚡ **Feel Free to Contact Me : thingstesting2020@gmail.com** 
 ### <h1 align="center">Follow Me on Social Media : <h1/>
  <body>
