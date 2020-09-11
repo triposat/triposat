@@ -3,9 +3,10 @@
  
 - ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
 - 🔭 **I’m Currently Working on :**
-![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/Canva_Designing-%7C-orange)
-![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
-![](https://img.shields.io/badge/Banner_Designing-%7C-yellow)
+- [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  
+- [x] ![](https://img.shields.io/badge/Canva_Designing-%7C-orange)
+- [x] ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
+- [x] ![](https://img.shields.io/badge/Banner_Designing-%7C-yellow)
 - 🌱 I’m currently learning **`Programming and Designing!`** ✌️✌️
 - 👯 I’m looking to Collaborate with other Content Creators
 - 🥅 2020 Goals: Become Expert in **`PYTHON and DESIGNING`** 🎯🎯
