@@ -21,7 +21,7 @@
     <div class="img1">
      <p align='center'>
  <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Github" /></a> 
- <a href="thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
+ <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
   <p/>
 </div>
 </body>
