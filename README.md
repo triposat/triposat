@@ -26,8 +26,10 @@
 </div>
 </body>
    <br/> 
-### <h1 align="center">**`SKILLS`** : <h1/>
-![Skills](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/percent.png)
+### <h1 align="center">SKILLS : <h1/>
+ 
+![Skills](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png)
+<br/>
 <h1 align="center">Languages and Tools :<h1/>
  
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
