@@ -35,6 +35,7 @@
 ### <h1 align="center">`Improving Myself Everyday With :`  <h1/>
  
 ![Focus](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png)
+<br/>
 <h1 align="center">Languages and Tools :<h1/>
  
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
