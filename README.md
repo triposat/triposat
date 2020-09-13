@@ -26,12 +26,12 @@
 </div>
 </body>
    <br/> 
-<h1 align="center">SKILLS : <h1/>
+###<h1 align="center">`SKILLS` : <h1/>
  
 ![Skills](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png)
 <br/>
 
-<h1 align="center">Improving Myself Everyday With :  <h1/>
+###<h1 align="center">`Improving Myself Everyday With :`  <h1/>
  
 ![Focus](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png)
 <br/>
