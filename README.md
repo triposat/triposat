@@ -27,7 +27,7 @@
 </body>
    <br/> 
  
-###<h1 align="center">`SKILLS :` <h1/>
+### <h1 align="center">`SKILLS :` <h1/>
  
 ![Skills](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png)
 <br/>
