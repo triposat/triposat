@@ -20,7 +20,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Github" /></a> 
+ <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Linkedin" width="48" height="48"></a><a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Github" /></a> 
  <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
   <p/>
 </div>
@@ -45,3 +45,4 @@
 ![](https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png)
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png)
 ![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
+![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png)
