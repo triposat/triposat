@@ -15,8 +15,19 @@
 - 🎯 Future Goal : **Become Expert in :** 
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Python_Flask-%7C-brown)
 - [x] ![](https://img.shields.io/badge/Python_Tkinter-%7C-violet) ![](https://img.shields.io/badge/App_Designing-%7C-indigo) ![](https://img.shields.io/badge/Ethical_Hacking-%7C-yellow) 
-- [x] ![](https://img.shields.io/badge/DS&Algo-%7C-pink) ![](https://img.shields.io/badge/Dart-%7C-blue) ![](https://img.shields.io/badge/Flutter-%7C-yellow) ![](https://img.shields.io/badge/Rive-%7C-pink)
-### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
+- [x] ![](https://img.shields.io/badge/DS&Algo-%7C-pink) ![](https://img.shields.io/badge/Dart-%7C-blue) ![](https://img.shields.io/badge/Flutter-%7C-yellow) ![](https://img.shields.io/badge/Rive-%7C-pink)<br/>
+### <h1 align="center">**My Repositories**<h1/>
+ <body>
+    <div class="img1">
+     <p align='center'>
+ <a href=" https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logo-removebg-preview.png" alt="Repository" width="100" height="100"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/hack-removebg-preview.png" width="100" height="100"></a>
+<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="100" height="100"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Now_its-removebg-preview.png" width="100" height="100"></a>
+
+  <p/>
+</div>
+</body>
+
+ ### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
  <body>
     <div class="img1">
      <p align='center'>
@@ -25,7 +36,7 @@
   <p/>
 </div>
 </body>
-   <br/> 
+   <br/>
  
 ### <h1 align="center">SKILLS : <h1/>
  
