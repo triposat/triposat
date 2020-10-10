@@ -7,7 +7,7 @@
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  
 - [x] ![](https://img.shields.io/badge/Canva_Designing-%7C-orange)
 - [x] ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
-- [x] ![](https://img.shields.io/badge/Banner_Designing-%7C-yellow)
+- [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
 - 🌱 I’m currently learning **`Programming and Designing!`** ✌️✌️
 - 👯 I’m looking to Collaborate with other Content Creators
 - 🥅 2020 Goals: Become Expert in **`PYTHON and DESIGNING`** 🎯🎯
@@ -20,7 +20,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Linkedin" width="68" height="68"></a><a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Github" /></a> 
+ <a href="https://www.linkedin.com/in/satyam-tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/48/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Linkedin" width="64" height="64"></a><a target="_blank" href="https://github.com/Iamtripathisatyam"><img src="https://icons.iconarchive.com/icons/social-media-icons/glossy-social/48/Github-icon.png" alt="Github" /></a> 
  <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/48/GMail-icon.png" alt="Email"></a>
   <p/>
 </div>
