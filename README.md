@@ -21,7 +21,7 @@
     <div class="img1">
      <p align='center'>
  <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/try-removebg-preview.png" alt="Repository" width="130" height="135"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/awes-removebg-preview.png" width="130" height="135"></a>
-<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="130" height="145"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/psi-removebg-preview.png" width="130" height="135"></a>
+<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="140" height="145"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/psi-removebg-preview.png" width="130" height="135"></a>
 
   <p/>
 </div>
