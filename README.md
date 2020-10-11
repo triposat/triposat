@@ -20,8 +20,8 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logo-removebg-preview.png" alt="Repository" width="100" height="100"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/hack-removebg-preview.png" width="100" height="100"></a>
-<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="100" height="100"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Now_its-removebg-preview.png" width="100" height="100"></a>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logo-removebg-preview.png" alt="Repository" width="110" height="110"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/hack-removebg-preview.png" width="110" height="110"></a>
+<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="110" height="110"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/psi-removebg-preview.png" width="110" height="110"></a>
 
   <p/>
 </div>
