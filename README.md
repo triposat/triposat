@@ -1,5 +1,4 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/gtss.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt="Iamtripathisatyam" /> </p>
 ### <h1 align="center">Hi there, I'm Satyam Tripathi 👋<h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
