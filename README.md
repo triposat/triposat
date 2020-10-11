@@ -40,12 +40,24 @@
  
 ### <h1 align="center">SKILLS : <h1/>
  
-![Skills](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png)
+ <body>
+    <div class="img1">
+     <p align='center'>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png" alt="Repository" width="400" height="400"></a>
+<p/>
+</div>
+</body>
 <br/>
 
 ### <h1 align="center">Improving Myself Everyday With :  <h1/>
  
-![Focus](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png)
+ <body>
+    <div class="img1">
+     <p align='center'>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png" alt="Repository" width="400" height="400"></a>
+<p/>
+</div>
+</body>
 <br/>
 <h1 align="center">Languages and Tools :<h1/>
  
@@ -60,4 +72,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&layout=compact" alt="Iamtripathisatyam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true" alt="Iamtripathisatyam" /></p>
-![Tower of Hanoi](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/TOH.gif)
+
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
