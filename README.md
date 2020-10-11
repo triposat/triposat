@@ -1,4 +1,5 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/gtss.png)
+![Tower of Hanoi](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Toh%20tower.mp4)
 ### <h1 align="center">Hi there, I'm Satyam Tripathi 👋<h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
