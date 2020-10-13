@@ -42,7 +42,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png" alt="Repository" width="400" height="300"></a>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png" alt="Repository" width="400" height="350"></a>
 <p/>
 </div>
 </body>
@@ -53,7 +53,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png" alt="Repository" width="400" height="300"></a>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png" alt="Repository" width="400" height="350"></a>
 <p/>
 </div>
 </body>
