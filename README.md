@@ -1,5 +1,5 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/gtss.png)
-### <h1 align="center">Hi there, I'm Satyam Tripathi 👋<h1/>
+### <h1 align="center">Hi there, I'm Satyam Tripathi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
 - ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
