@@ -71,6 +71,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" /></p>
 
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
