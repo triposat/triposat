@@ -1,6 +1,6 @@
-![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/gtss.png)
+![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/gtss.png)
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/github.gif" width="200px" height="200px">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="200px" height="200px">
  </p>
  
 ### <h1 align="center">Hi there, I'm Satyam Tripathi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><h1/>
@@ -24,8 +24,8 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/try-removebg-preview.png" alt="Repository" width="130" height="135"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/awes-removebg-preview.png" width="130" height="135"></a>
-<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="140" height="145"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/psi-removebg-preview.png" width="130" height="135"></a><a href="https://github.com/Iamtripathisatyam/Data-Structure-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/go-removebg-preview.png" width="130" height="135"></a>
+ <a href="https://github.com/Iamtripathisatyam/Python-Projects" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/try-removebg-preview.png" alt="Repository" width="130" height="135"></a><a href="https://github.com/Iamtripathisatyam/Python-Hackerrank-Solutions"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/awes-removebg-preview.png" width="130" height="135"></a>
+<a href="https://github.com/Iamtripathisatyam/C-Programming-Projects"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Purple_and_White_Gaming_Logoaao-removebg-preview.png" width="140" height="145"></a><a href="https://github.com/Iamtripathisatyam/C-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/psi-removebg-preview.png" width="130" height="135"></a><a href="https://github.com/Iamtripathisatyam/Data-Structure-Programs"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/go-removebg-preview.png" width="130" height="135"></a>
 <p/>
 </div>
 </body>
@@ -46,7 +46,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Percent.png" alt="Repository" width="400" height="350"></a>
+ <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Percent.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Percent.png" alt="Repository" width="400" height="350"></a>
 <p/>
 </div>
 </body>
@@ -57,7 +57,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Focus.png" alt="Repository" width="400" height="350"></a>
+ <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Focus.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Focus.png" alt="Repository" width="400" height="350"></a>
 <p/>
 </div>
 </body>
@@ -80,5 +80,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
  </p>
