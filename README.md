@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/github.gif" width="200px" height="200px">
  </p>
+ 
 ### <h1 align="center">Hi there, I'm Satyam Tripathi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
@@ -62,7 +63,7 @@
 </body>
 <br/>
 <h1 align="center">Languages and Tools :<h1/>
- 
+<p align="center"> 
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
 ![](https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png)
 ![](https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png)
@@ -71,10 +72,13 @@
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png)
 ![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png)
+ </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
+<p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
+ </p>
