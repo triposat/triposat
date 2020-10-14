@@ -34,7 +34,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/uiconstock/folded-social-media/64/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/ranks-removebg-preview.png" balt="Linkedin" width="65" height="72"></a> 
+ <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/uiconstock/folded-social-media/64/Linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/ranks-removebg-preview.png" balt="Linkedin" width="65" height="68"></a> 
  <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/64/web-google-gmail-offline-icon.png" alt="Email"></a>
   <p/>
 </div>
