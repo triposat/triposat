@@ -69,7 +69,7 @@
 ![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&hide_border=true&theme=dracula" alt="Iamtripathisatyam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" /></p>
 
