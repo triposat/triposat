@@ -1,4 +1,5 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/gtss.png)
+![How](https://forthebadge.com/images/badges/built-by-developers.svg)
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="200px" height="200px">
  </p>
