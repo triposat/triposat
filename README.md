@@ -1,8 +1,5 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/gtss.png)
-![Out](https://forthebadge.com/images/badges/check-it-out.svg)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)
-![Nice](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)
-![Smile](https://forthebadge.com/images/badges/makes-people-smile.svg)
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="200px" height="200px">
  </p>
