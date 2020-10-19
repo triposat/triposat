@@ -39,9 +39,6 @@
 </div>
 </body>
    <br/>
-<p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
- </p>
  <h1 align="center">Languages and Tools:<h1/>
  
 <p align="center">
