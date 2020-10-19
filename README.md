@@ -42,7 +42,7 @@
    <br/>
 
 <h1 align="center">Languages and Tools :<h1/>
-
+<p align="center">
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
 ![](https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png)
 ![](https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png)
@@ -51,6 +51,7 @@
 ![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png)
 ![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png)
+ </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
