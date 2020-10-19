@@ -47,6 +47,7 @@
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png">
 <img src="https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png">
 <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png">
+<img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/72/Networking-icon.png">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/pycharm-icon.png">
 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png">
 <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png">
