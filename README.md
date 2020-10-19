@@ -41,7 +41,7 @@
 </body>
    <br/>
 
-<h1 align="center">Languages and Tools :<h1/>
+<h1 align="center">Languages and Tools:<h1/>
  
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png">
