@@ -40,28 +40,7 @@
 </div>
 </body>
    <br/>
- 
-### <h1 align="center">SKILLS : <h1/>
- 
- <body>
-    <div class="img1">
-     <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Percent.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Percent.png" alt="Repository" width="400" height="350"></a>
-<p/>
-</div>
-</body>
-<br/>
 
-### <h1 align="center">Improving Myself Everyday With :  <h1/>
- 
- <body>
-    <div class="img1">
-     <p align='center'>
- <a href="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Focus.png" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Focus.png" alt="Repository" width="400" height="350"></a>
-<p/>
-</div>
-</body>
-<br/>
 <h1 align="center">Languages and Tools :<h1/>
 
 ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
