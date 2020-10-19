@@ -42,15 +42,16 @@
    <br/>
 
 <h1 align="center">Languages and Tools :<h1/>
+ 
 <p align="center">
-![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png)
-![](https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png)
-![](https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png)
-![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/pycharm-icon.png)
-![](https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png)
-![](https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png)
-![](https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png)
-![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png)
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png">
+<img src="https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png">
+<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png">
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/pycharm-icon.png">
+<img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png">
+<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png">
+<img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png">
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png">
  </p>
 
 <p align="center">
