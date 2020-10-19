@@ -13,9 +13,6 @@
 - [x] ![](https://img.shields.io/badge/Canva_Designing-%7C-orange)
 - [x] ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
 - [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
-- 🌱 I’m currently learning **`Programming and Designing!`** ✌️✌️
-- 👯 I’m looking to Collaborate with other Content Creators
-- 🥅 2020 Goals: Become Expert in **`PYTHON and DESIGNING`** 🎯🎯
 - ✔️ Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - 🎯 Future Goal : **Become Expert in :** 
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Python_Flask-%7C-brown)
