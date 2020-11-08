@@ -7,12 +7,12 @@
 ### <h1 align="center">Hi there, I'm Satyam Tripathi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
-- ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
-- 🔭 **I’m Currently Working on :**?style=for-the-badge&logo=appveyor
-- [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python)  
-- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva)
-- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word)
-- [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
+- ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
+- 🔭 **I’m Currently Working on :**
+- [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow)  
+- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational)
+- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word&logoColor=blue)
+- [x] ![](https://img.shields.io/badge/DATA-STRUCTURE-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red)
 - ✔️ Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - 🎯 Future Goal : **Become Expert in :** 
 - [x] ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Python_Django-%7C-blue) ![](https://img.shields.io/badge/Python_Flask-%7C-brown)
