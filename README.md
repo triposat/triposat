@@ -10,8 +10,8 @@
 - ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
 - 🔭 **I’m Currently Working on :**
 - [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?abel=PYTHON&logo=python&style=flat-square)  
-- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-blue.svg?label=CANVA&logo=canva&style=flat-square)
-- [x] ![](https://img.shields.io/badge/MicroSoft_Word-%7C-blue)
+- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&logo=canva&style=flat-square)
+- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&logo=canva&style=social&logo=appveyor)
 - [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
 - ✔️ Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - 🎯 Future Goal : **Become Expert in :** 
