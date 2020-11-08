@@ -8,10 +8,10 @@
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
 - ✌️ Currently Pursuing **`B.Tech From PSIT Kanpur`**
-- 🔭 **I’m Currently Working on :**
-- [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?abel=PYTHON&logo=python&style=social&logo=appveyor)  
-- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&logo=canva&style=social&logo=appveyor)
-- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&logo=canva&style=social&logo=appveyor)
+- 🔭 **I’m Currently Working on :**?style=for-the-badge&logo=appveyor
+- [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python)  
+- [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva)
+- [x] ![](https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word)
 - [x] ![](https://img.shields.io/badge/Data_Structure-%7C-yellow)
 - ✔️ Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - 🎯 Future Goal : **Become Expert in :** 
