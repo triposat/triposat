@@ -37,8 +37,7 @@
 </body>
    <br/>
  <h1 align="center">Languages and Tools:<h1/>
- 
-<p align="center">
+ <p align="center">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/python-icon.png">
 <img src="https://icons.iconarchive.com/icons/mattahan/umicons/72/Letter-C-icon.png">
 <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/72/html-5-icon.png">
