@@ -58,8 +58,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam?label=VISITS&style=for-the-badge&logo=github" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?label=VISITS&style=for-the-badge&logo=github" alt=Iamtripathisatyam) />
+<img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam" alt=Iamtripathisatyam) />
 </p>
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
