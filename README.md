@@ -57,12 +57,12 @@
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/years/Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/repos/Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/years/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/repos/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
  </p>
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
