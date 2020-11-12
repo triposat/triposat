@@ -60,7 +60,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/years/Iamtripathisatyam" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/months/Iamtripathisatyam" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/repos/Iamtripathisatyam" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam" alt=Iamtripathisatyam />
