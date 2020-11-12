@@ -59,7 +59,7 @@
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?label=VISITS&style=social&logo=github&logoColor=black" alt=Iamtripathisatyam) />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?label=VISITS&style=for-the-badge&logo=appveyor" alt=Iamtripathisatyam) />
 </p>
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
