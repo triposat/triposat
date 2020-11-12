@@ -6,8 +6,7 @@
  
 ### <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Satyam Tripathi From INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="50px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
- 
-- ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
+ - ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
 - 🔭 **I’m Currently Working on :**
 - [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow)  
 - [x] ![](https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational)
@@ -31,7 +30,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/graphics-vibe/black-gloss-social/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/ranks-removebg-preview.png" balt="Linkedin" width="64"></a> 
+ <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/graphics-vibe/neon-glow-social/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/ranks-removebg-preview.png" balt="Linkedin" width="64"></a> 
  <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a>
   <p/>
 </div>
