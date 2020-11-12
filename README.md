@@ -4,7 +4,7 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/github.gif" width="200px" height="200px">
  </p>
  
-### <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Satyam Tripathi From INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="100px"><h1/>
+### <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">, I'm Satyam Tripathi From INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="65px"><h1/>
 ## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
  
 - ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
