@@ -60,7 +60,7 @@
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam" alt="Iamtripathisatyam"/>
-<img src="https://Iamtripathisatyam.com/ghpvc/?username=Iamtripathisatyam" alt="Iamtripathisatyam"/>
+<img src="https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg" />
 </p>
 
 <p align="center">
