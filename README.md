@@ -60,7 +60,7 @@
 
 <p align="center">
 <img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam" alt="Iamtripathisatyam"/>
-<img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt="Iamtripathisatyam"/>
+<img src="https://Iamtripathisatyam.com/ghpvc/?username=Iamtripathisatyam" alt="Iamtripathisatyam"/>
 </p>
 
 <p align="center">
