@@ -46,7 +46,9 @@
 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png">
 <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png">
 <img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png">
+  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/64/iTerm-icon.png">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png">
+
  </p>
 
 <p align="center">
