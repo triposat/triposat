@@ -46,7 +46,8 @@
 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/72/MS-Word-2-icon.png">
 <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/72/Dev-icon.png">
 <img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/72/ps-icon.png">
-  <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/72/iTerm-icon.png">
+<img src="https://icons.iconarchive.com/icons/froyoshark/enkel/72/iTerm-icon.png">
+<img src="https://icons.iconarchive.com/icons/hopstarter/mac-folders/64/Documents-icon.png" alt=Iamtripathisatyam />
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/visual-studio-code-icon.png">
 
  </p>
@@ -65,7 +66,6 @@
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://icons.iconarchive.com/icons/hopstarter/mac-folders/64/Documents-icon.png" alt=Iamtripathisatyam />
  </p>
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
