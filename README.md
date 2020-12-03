@@ -1,3 +1,7 @@
+<a href="https://dev.to/iamtripathisatyam">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Tripathi's DEV Profile" height="30" width="30">
+</a>
+       
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)
 <p align="center">
