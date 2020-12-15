@@ -73,7 +73,3 @@
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
- </p>
-<p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/TOH.gif" alt="HTML5 Icon" align='center' style="float:center;width:128px;height:128px;">
-</p>
