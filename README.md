@@ -33,6 +33,7 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
  </p>
 
+
  ### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
  <body>
     <div class="img1">
