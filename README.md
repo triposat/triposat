@@ -38,8 +38,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/graphics-vibe/neon-glow-social/64/linkedin-icon.png" alt="Linkedin"></a> <a href="https://www.hackerrank.com/tripathiishere" target="_blank"><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/ranks-removebg-preview.png" alt="Linkedin" width="64"></a> 
- <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=60></a> <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/graphics-vibe/neon-glow-social/64/linkedin-icon.png" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=60></a> <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
   <p/>
 </div>
 </body>
