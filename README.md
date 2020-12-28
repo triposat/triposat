@@ -22,10 +22,6 @@
 - ✔️ Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - 🎯 Future Goal : **Become Expert in :** 
 ### ![](https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow) ![](https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange) ![](https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red) ![](https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success) ![](https://img.shields.io/badge/APP_DESIGNING-9cf.svg?&style=social&logo=Android&logoColor=critical) ![](https://img.shields.io/badge/DART-9cf.svg?&style=social&logo=Dart&logoColor=black) ![](https://img.shields.io/badge/FLUTTER-9cf.svg?&style=social&logo=Flutter&logoColor=blue)<br/>
-  <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
- </p>
-
 
  ### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
  <body>
@@ -36,6 +32,9 @@
 </div>
 </body>
    <br/>
+    <p align="center">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
+ </p>
  <h1 align="center">Languages and Tools:<h1/>
  <p align="center">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/python-icon.png">
