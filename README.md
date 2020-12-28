@@ -59,7 +59,6 @@
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" alt=Iamtripathisatyam/>
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam/>
 <img src="https://badges.pufler.dev/years/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam/>
 <img src="https://badges.pufler.dev/repos/Iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam/>
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" alt=Iamtripathisatyam/>
