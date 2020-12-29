@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=gotham" alt="Satyam Tipathi
 <a href="https://dev.to/iamtripathisatyam">
   <i class="fab fa-dev" title="iamtripathisatyam's DEV Profile"></i>
 </a>
