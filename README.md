@@ -1,3 +1,4 @@
+ ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg)
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  <a href="https://dev.to/iamtripathisatyam">
