@@ -1,8 +1,3 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=gotham" alt="Satyam Tipathi
-<a href="https://dev.to/iamtripathisatyam">
-  <i class="fab fa-dev" title="iamtripathisatyam's DEV Profile"></i>
-</a>
-       
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  <a href="https://dev.to/iamtripathisatyam">
