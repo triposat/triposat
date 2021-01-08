@@ -1,6 +1,7 @@
 ![Student|Programmer|Motivator|Designer](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
 ![How](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
  ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg) <br/>
+![](https://komarev.com/ghpvc/?username=Iamtripathisatyam) <br/>
  <a href="https://dev.to/iamtripathisatyam">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Tripathi's DEV Profile" width="50">
 </a>
@@ -54,10 +55,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Iamtripathisatyam" />
-<img src="https://badges.pufler.dev/years/Iamtripathisatyam?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/repos/Iamtripathisatyam?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/iamtripathisatyam?&logo=github&logoColor=yellow" />
-<img src="https://badges.pufler.dev/commits/monthly/Iamtripathisatyam?&logo=github&logoColor=yellow" />
