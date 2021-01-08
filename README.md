@@ -34,7 +34,7 @@
  </p>
  <h1 align="center">Languages and Tools:<h1/>
  <p align="center">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/python-icon.png">
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
 <img src="https://icons.iconarchive.com/icons/mattahan/umicons/64/Letter-C-icon.png">
 <img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/64/html-5-icon.png">
 <img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/64/Networking-icon.png">
