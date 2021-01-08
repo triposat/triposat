@@ -24,7 +24,7 @@
  <body>
     <div class="img1">
      <p align='center'>
- <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=60></a>  <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a>
+ <a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="59" alt="Linkedin"></a> <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" alt="Email"></a><a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=60></a>  <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="58"></a> <a href="https://twitter.com/SatyamT26850002" target="_blank"><img src="https://icons.iconarchive.com/icons/bokehlicia/pacifica/96/twitter-icon.png" width="58"></a>
   <p/>
 </div>
 </body>
@@ -43,7 +43,6 @@
 <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/64/Dev-icon.png">
 <img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/64/ps-icon.png">
 <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/64/iTerm-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/mac-folders/64/Documents-icon.png" alt=Iamtripathisatyam />
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/visual-studio-code-icon.png">
 
  </p>
