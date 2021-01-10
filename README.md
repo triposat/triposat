@@ -2,9 +2,8 @@
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg) <br/>
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam) <br/>
- 
  <a href="https://dev.to/iamtripathisatyam">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Tripathi's DEV Profile" width="50">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Satyam Tripathi's DEV Profile" width="50">
 </a>
 
 <p align="center">
