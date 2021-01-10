@@ -55,6 +55,5 @@
 </p>
 
 <p align="center">
-<img src="
-https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="180px">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="180px">
  </p>
