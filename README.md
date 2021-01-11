@@ -11,7 +11,7 @@
 </p>
       
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
-## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, Motivator!<h3/>
+## <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, and Developer<h3/>
  - ✌️ Currently Pursuing **B.Tech From PSIT Kanpur**
 - 🔭 **I’m Currently Working on :**
 - [x] ![](https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow)  
