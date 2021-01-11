@@ -39,7 +39,7 @@
 </p>
  
  
-<h1 align="center">**`LANGUAGES`** and **`TOOLS`**<h1/>
+### <h1 align="center">**`LANGUAGES`** and **`TOOLS`**<h1/>
     
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
