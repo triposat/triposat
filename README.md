@@ -23,7 +23,7 @@
 ### ![](https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow) ![](https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange) ![](https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red) ![](https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success) ![](https://img.shields.io/badge/APP_DESIGNING-9cf.svg?&style=social&logo=Android&logoColor=critical) ![](https://img.shields.io/badge/DART-9cf.svg?&style=social&logo=Dart&logoColor=black) ![](https://img.shields.io/badge/FLUTTER-9cf.svg?&style=social&logo=Flutter&logoColor=blue)<br/>
 
 
- ### <h1 align="center">Feel Free to **`Contact Me`** : <h1/>
+ ### <h1 align="center">Feel Free to **`Contact Me`** <h1/>
  <body>
     <div class="img1">
 <p align='center'>
@@ -39,7 +39,7 @@
 </p>
  
  
-<h1 align="center">Languages and Tools:<h1/>
+<h1 align="center">Languages and Tools<h1/>
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
 <img src="https://icons.iconarchive.com/icons/mattahan/umicons/64/Letter-C-icon.png">
