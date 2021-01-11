@@ -13,11 +13,7 @@
 ### <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from INDIA<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><h1/>
 ### <h3 align="center">I'm a 2nd Year CSE Student, Programmer, Designer, and Developer<h3/>
 ## <h3 align="center">Currently Pursuing **`B.Tech From PSIT Kanpur`**<h3/>
--  **I’m Currently Working on :**
-<img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=blue">  
-<img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational">
-<img src="https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word&logoColor=blue">
-<img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red">
+### <h1 align="center">I’m Currently Working on:<img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"> <img src="https://img.shields.io/badge/MICROSOFT-WORD-blue.svg?label=MICROSOFT&style=social&logo=microsoft-word&logoColor=blue"> <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"><h1/>
     
 - Fun fact : I love **`Listening to Music and Doing Yoga!`**
 - Future Goal : **Become Expert in :** 
