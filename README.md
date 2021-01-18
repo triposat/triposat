@@ -1,4 +1,4 @@
-![Poster](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Skills.png)
+![Poster](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Git%20Banner.png)
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg) <br/>
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
