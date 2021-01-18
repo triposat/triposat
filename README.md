@@ -60,6 +60,6 @@
 
 
 <h2 align="center">
-  I fear not the man who has practiced 10 languages once,
+  I fear not the man who has practiced 10 languages once,<br/>
   but I fear the man who has practiced one language 10 times.
 </h3>
