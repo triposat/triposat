@@ -60,5 +60,7 @@
 
 
 <h3 align="center">
+    ```python
   I fear not the man who has practiced 10 languages once, but I fear the man who has practiced one language 10 times.
+    ```
 </h3>
