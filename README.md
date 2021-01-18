@@ -57,3 +57,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
+
+
+<h3 align="center">
+  I fear not the man who has practiced 10 languages once, but I fear the man who has practiced one language 10 times.
+</h3>
