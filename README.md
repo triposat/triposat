@@ -22,7 +22,7 @@
  <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="48" alt="Email"></a>     <a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>     <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="46"></a>     <a href="https://twitter.com/SatyamT26850002" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="50" alt="Email"></a>     <a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>     <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="46"></a>     <a href="https://twitter.com/SatyamT26850002" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
 <p/>
 </div>
 </body>
@@ -30,7 +30,7 @@
  <br/>
  
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="100px" height="100px">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="60px" height="100px">
 </p>
  
  
