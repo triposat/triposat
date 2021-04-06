@@ -31,25 +31,20 @@
    
  <br/>
  
-<p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Bar.gif" width="60px" height="100px">
-</p>
- 
- 
 ### <h2 align="center">**Languages** and **Tools**<h2/>
     
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
-<img src="https://icons.iconarchive.com/icons/mattahan/umicons/64/Letter-C-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/64/html-5-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/64/Networking-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/64/Dev-icon.png">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/pycharm-icon.png"    width="60">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/64/visual-studio-code-icon.png">
-<img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/64/MS-Word-2-icon.png"  width="60">
-<img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/64/ps-icon.png">
-<img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/64/Window-Command-Line-icon.png">
-<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-windows-button-icon.png">
+<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/60/Other-python-icon.png">
+<img src="https://icons.iconarchive.com/icons/mattahan/umicons/52/Letter-C-icon.png">
+<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/52/html-5-icon.png">
+<img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/52/Networking-icon.png">
+<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/52/Dev-icon.png">
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/52/pycharm-icon.png">
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/52/visual-studio-code-icon.png">
+<img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/52/MS-Word-2-icon.png">
+<img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/52/ps-icon.png">
+<img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/52/Window-Command-Line-icon.png">
+<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/52/social-windows-button-icon.png">
 </p>
 
 ### <h2 align="center">My Contribution Streak<h2/>
