@@ -63,7 +63,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
   </a>
 </p>
-    
+   
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
 </p>
