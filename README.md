@@ -9,7 +9,7 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
 </p>
       
-### <ol align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="40px"><ol/>
+### <ol align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="20px"><ol/>
     
 <h3>
     
