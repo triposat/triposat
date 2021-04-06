@@ -20,7 +20,7 @@
 - Future Goal is to **`Become Expert in:`**<h3 align="center"> <img src="https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange"> <img src="https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red"> <img src="https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success"> <img src="https://img.shields.io/badge/JavaScript-yellow.svg?&style=social&logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-yellow.svg?&style=social&logo=React&logoColor=green"> <h3/><br/>
 <h3/> 
  
- ### <h1 align="center">Feel Free to **`CONTACT ME`** <h1/>
+ ### <h1 align="center">Feel Free to **CONTACT ME** <h1/>
  <body>
     <div class="img1">
 <p align='center'>
@@ -36,7 +36,7 @@
 </p>
  
  
-### <h1 align="center">**`LANGUAGES`** and **`TOOLS`**<h1/>
+### <h1 align="center">**LANGUAGES** and **TOOLS**<h1/>
     
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
@@ -51,6 +51,12 @@
 <img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/64/Window-Command-Line-icon.png">
 <img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-windows-button-icon.png">
 </p>
+
+### <h1 align="center">My Contribution Streak<h1/>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
