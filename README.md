@@ -1,4 +1,3 @@
-![Poster](https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Git%20Banner.png)
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg) <br/>
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
@@ -68,6 +67,6 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
   </a>
 </p>
