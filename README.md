@@ -9,7 +9,7 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
 </p>
       
-### <h2>Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"><h2/>
+### <h2 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"><h2/>
     
 <ol>
     
@@ -17,9 +17,9 @@
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
 - I’m Currently **Working on:** <h3><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h3/>
 - Future Goal is to **Become Expert in:** <h3><img src="https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange"> <img src="https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red"> <img src="https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success"> <img src="https://img.shields.io/badge/JavaScript-yellow.svg?&style=social&logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-yellow.svg?&style=social&logo=React&logoColor=green"> <ol/><br/>
-<h3/> 
+<ol/> 
  
- ### <h1 align="center">Feel Free to **Contact Me** <h1/>
+ ### <h2 align="center">Feel Free to **Contact Me** <h2/>
  <body>
     <div class="img1">
 <p align='center'>
@@ -35,7 +35,7 @@
 </p>
  
  
-### <h1 align="center">**Languages** and **Tools**<h1/>
+### <h2 align="center">**Languages** and **Tools**<h2/>
     
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/72/Other-python-icon.png">
@@ -51,20 +51,20 @@
 <img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/64/social-windows-button-icon.png">
 </p>
 
-### <h1 align="center">My Contribution Streak<h1/>
+### <h2 align="center">My Contribution Streak<h2/>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
-### <h1 align="center">Github Trophies<h1/>
+### <h2 align="center">Github Trophies<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
   </a>
 </p>
     
-### <h1 align="center">Github Stats<h1/>   
+### <h2 align="center">Github Stats<h2/>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
 </p>
