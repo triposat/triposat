@@ -13,7 +13,7 @@
     
 <ol>
     
-- I'm a 2<sup>nd</sup> Year CSE Student, Programmer, Designer, and Developer.
+- I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
 - I’m Currently **Working on:** <h3><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h3/>
 - Future Goal is to **Become Expert in:** <h3><img src="https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange"> <img src="https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red"> <img src="https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success"> <img src="https://img.shields.io/badge/JavaScript-yellow.svg?&style=social&logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-yellow.svg?&style=social&logo=React&logoColor=green"> <ol/><br/>
