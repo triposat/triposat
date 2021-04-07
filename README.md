@@ -48,12 +48,12 @@
 <img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png">
 </p>
 
-### <h2 align="center">Projects Open for Contribution<h2/> 
+### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
 
 <table align="center">
     <thead align="center">
         <tr border: none;>
-            <td><b>💻 Mini Projects</b></td>
+            <td><b>🖥️ Mini Projects</b></td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
