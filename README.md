@@ -20,7 +20,7 @@
 
 <h4/> 
  
- ### <h2 align="center">📞 Feel Free to **Contact Me** 📞<h2/>
+ ### <h2 align="center">📱Feel Free to **Contact Me** <h2/>
  <body>
     <div class="img1">
 <p align='center'>
@@ -105,20 +105,20 @@
     </tbody>        
 </table>
 
-### <h2 align="center">My Contribution Streak<h2/>
+### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
-### <h2 align="center">Github Trophies<h2/>
+### <h2 align="center">🏆 Github Trophies 🏆<h2/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
   </a>
 </p>
     
-### <h2 align="center">Github Stats<h2/>   
+### <h2 align="center">📈 Github Stats 📈<h2/>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
 </p>
