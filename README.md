@@ -74,6 +74,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
 
+### <h2 align="center">Projects Open for Contribution<h2/> 
+
 <table align="center">
     <thead align="center">
         <tr border: none;>
