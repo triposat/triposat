@@ -73,3 +73,26 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
+
+<table align="center">
+    <thead align="center">
+        <tr border: none;>
+            <td><b>💻 Projects</b></td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Pull Requests</b></td>
+            <td><b>👨‍💻 Language</b></td>
+        </tr>
+     </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier"</a><b>Covid Cases Notifier</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/Iamtripathisatyam/Covid_Cases_Notifier?label=Python&style=flat-square"/></td>
+       </tr>
+            
+</table>
