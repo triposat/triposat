@@ -47,33 +47,6 @@
 <img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png">
 <img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png">
 </p>
-
-### <h2 align="center">My Contribution Streak<h2/>
-<p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-    
-### <h2 align="center">Github Trophies<h2/>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
-  </a>
-</p>
-    
-### <h2 align="center">Github Stats<h2/>   
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
-</p>
-
 ### <h2 align="center">Projects Open for Contribution<h2/> 
 
 <table align="center">
@@ -130,3 +103,29 @@
        </tr>
     </tbody>        
 </table>
+
+### <h2 align="center">My Contribution Streak<h2/>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+    
+### <h2 align="center">Github Trophies<h2/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&theme=gruvbox"/>
+  </a>
+</p>
+    
+### <h2 align="center">Github Stats<h2/>   
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
+</p>
