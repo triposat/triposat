@@ -92,7 +92,15 @@
             <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/Iamtripathisatyam/Covid_Cases_Notifier?label=Python&style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Covid_Cases_Notifier?label=Python&style=flat-square"/></td>
+             <tr>
+            <td><a href="https://github.com/Iamtripathisatyam/Words_Dictionary"</a><b>English Words Dictionary</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Words_Dictionary?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Words_Dictionary?label=Python&style=flat-square"/></td>
+            </tr>
        </tr>
-            
+    </tbody>        
 </table>
