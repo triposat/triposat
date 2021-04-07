@@ -31,7 +31,7 @@
    
  <br/>
  
-### <h2 align="center">**Languages** and **Tools**<h2/>
+### <h2 align="center">🛠️ **Languages** and **Tools** 🛠️<h2/>
     
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
