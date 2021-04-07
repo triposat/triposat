@@ -77,7 +77,7 @@
 <table align="center">
     <thead align="center">
         <tr border: none;>
-            <td><b>💻 Projects</b></td>
+            <td><b>💻 Mini Projects</b></td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
@@ -117,6 +117,14 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Phone_Number_Info?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Phone_Number_Info?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Phone_Number_Info?label=Python&style=flat-square"/></td>
+    </tr>
+        <tr>
+            <td><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"</a><b>Weather Forecast</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Weather_Updates_Notifier?label=Python&style=flat-square"/></td>
        </tr>
     </tbody>        
 </table>
