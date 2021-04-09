@@ -130,3 +130,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
+
+<p align="center">
+Made with ❤️ in India 🇮🇳 
+</p>
