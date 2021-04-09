@@ -131,5 +131,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
 
-### <h3 align="center">Made with <img src="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png" width="20px">in India<h3/>
+### <h3 align="center">Made with <img src="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png" width="20px"> in India<h3/>
     
