@@ -20,7 +20,7 @@
 
 <h4/> 
  
- ### <h2 align="center">Feel Free to **Contact Me**<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"><h2/>
+ ### <h2 align="center">Feel Free to **Contact Me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"><h2/>
  <body>
     <div class="img1">
 <p align='center'>
@@ -41,7 +41,9 @@
 <img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png">
 <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png">
+[<code>
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png">
+    </code>](https://code.visualstudio.com/)
 <img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png">
 <img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png">
 <img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png">
