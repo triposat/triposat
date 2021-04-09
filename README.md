@@ -34,18 +34,18 @@
 ### <h2 align="center">🛠️ **Languages** and **Tools** 🛠️<h2/>
     
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
-<img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png">
-<img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png">
-<img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png">
-<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png">
+<a href="https://www.python.org/"><a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a>
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a>
-<img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png">
-<img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png">
-<img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png">
-<img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png">
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a>
+<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a>
+<a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png"></a>
 </p>
 
 ### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
