@@ -35,7 +35,7 @@
     
 <p align="center">
 <a href="https://www.python.org/"><a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
 <a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
 <a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
 <a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
