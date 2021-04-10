@@ -36,9 +36,9 @@
 <p align="center">
 <a href="https://www.python.org/"><a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
+<a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
+<a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
+<a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
 <a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a>
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a>
