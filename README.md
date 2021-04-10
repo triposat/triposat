@@ -39,11 +39,11 @@
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a>
+<a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a>
 <a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a>
+<a href="https://www.canva.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a>
 <a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a>
 <a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png"></a>
 </p>
