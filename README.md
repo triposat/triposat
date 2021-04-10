@@ -45,7 +45,7 @@
 <a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a>
 <a href="https://www.canva.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a>
 <a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a>
-<a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/yootheme/social-bookmark/48/social-windows-button-icon.png"></a>
+<a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/martz90/circle/48/windows-8-icon.png"></a>
 </p>
 
 ### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
