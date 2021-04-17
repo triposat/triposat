@@ -115,7 +115,7 @@
   </a>
 </p>
     
-### <h2 align="center">⚙️ Github Stats ⚙️<h2/>   
+### <h2 align="center">Github Stats<h2/>   
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
 </p>
