@@ -1,5 +1,3 @@
-- [Ignore Whitespace](#ignore-whitespace)
-
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![Visitor Count](https://profile-counter.glitch.me/{Iamtripathisatyam}/count.svg) <br/>
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
@@ -17,9 +15,7 @@
 - I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/>
 <h4/>
 
-### Ignore Whitespace
-
-### <h2 align="center">🛠️ **Languages** and **Tools** 🛠️<h2/>
+### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
 <a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
