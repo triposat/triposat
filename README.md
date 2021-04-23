@@ -15,19 +15,8 @@
 - I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/>
 - Future Goal is to **Become Expert in:** <h4><img src="https://img.shields.io/badge/PYTHON-yellow.svg?&style=social&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/DJANGO-yellow.svg?&style=social&logo=Django&logoColor=orange"> <img src="https://img.shields.io/badge/FLASK-blue.svg?&style=social&logo=Flask&logoColor=red"> <img src="https://img.shields.io/badge/DS&ALGO-9cf.svg?&style=social&logo=Treehouse&logoColor=success"> <img src="https://img.shields.io/badge/JavaScript-yellow.svg?&style=social&logo=JavaScript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-yellow.svg?&style=social&logo=React&logoColor=green"><h4/>
 
-<h4/> 
- 
- ### <h2 align="center">Feel Free to **Contact Me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"><h2/>
- <body>
-    <div class="img1">
-<p align='center'>
-<a href="https://www.linkedin.com/in/Satyam-Tripathi-536b561b1" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:thingstesting2020@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://t.me/Iamtripathisatyam" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width=48></a>     <a href="https://www.instagram.com/geeky_satyam" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" width="46"></a>     <a href="https://twitter.com/SatyamT26850002" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
-<p/>
-</div>
-</body>
-   
- <br/>
- 
+<h4/>
+
 ### <h2 align="center">🛠️ **Languages** and **Tools** 🛠️<h2/>
     
 <p align="center">
