@@ -18,18 +18,18 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
-<a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
-<a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
-<a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a>
-<a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a>
-<a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a>
-<a href="https://www.canva.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a>
-<a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a>
-<a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/martz90/circle/48/windows-8-icon.png"></a>
+<code><a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a></code>
+<code><a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a></code>
+<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a></code>
+<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a></code>
+<code><a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a></code>
+<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a></code>
+<code><a href="https://www.canva.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a></code>
+<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/martz90/circle/48/windows-8-icon.png"></a></code>
 </p>
 
 ### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
