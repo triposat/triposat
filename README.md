@@ -18,7 +18,7 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png">
+<a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a>
 <a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a>
 <a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a>
