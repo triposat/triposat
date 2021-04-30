@@ -37,7 +37,7 @@
 <table align="center">
     <thead align="center">
         <tr border: none;>
-            <td><b>🖥️ Mini Projects</b></td>
+            <td><b>Mini Projects</b></td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🐛 Issues</b></td>
