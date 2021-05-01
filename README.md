@@ -46,6 +46,14 @@
         </tr>
      </thead>
     <tbody>
+         <tr>
+            <td><a href="https://github.com/Iamtripathisatyam/Mini_Assistant"</a><b>Mini Assistant</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Mini_Assistant?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Mini_Assistant?label=Python&style=flat-square"/></td>
+        </tr>
         <tr>
             <td><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier"</a><b>Covid-19 Cases Notifier</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
