@@ -18,18 +18,18 @@
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
 <p align="center">
-<code><a href="https://www.python.org/"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://icons.iconarchive.com/icons/mattahan/umicons/48/Letter-C-icon.png"></a></code>
-<code><a href="https://html.com/"><img src="https://icons.iconarchive.com/icons/graphics-vibe/developer/48/html-5-icon.png"></a></code>
-<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/github-icon.png"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/48/Networking-icon.png"></a></code>
-<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/48/Dev-icon.png"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/pycharm-icon.png"></a></code>
-<code><a href="https://code.visualstudio.com/"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/visual-studio-code-icon.png"></a></code>
-<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://icons.iconarchive.com/icons/benjigarner/softdimension/48/MS-Word-2-icon.png"></a></code>
-<code><a href="https://www.canva.com/"><img src="https://icons.iconarchive.com/icons/rud3boy/mac-apps/48/ps-icon.png"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://icons.iconarchive.com/icons/double-j-design/ravenna-3d/48/Window-Command-Line-icon.png"></a></code>
-<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://icons.iconarchive.com/icons/martz90/circle/48/windows-8-icon.png"></a></code>
+<code><a href="https://www.python.org/"><img src="https://cutt.ly/ablze6q"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cutt.ly/TblcfEv"></a></code>
+<code><a href="https://html.com/"><img src="https://cutt.ly/nblcgXv"></a></code>
+<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://cutt.ly/tblcjad"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://cutt.ly/Lblckdy"></a></code>
+<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cutt.ly/YblclfT"></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cutt.ly/8blcxf9"></a></code>
+<code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/Tblccsg"></a></code>
+<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cutt.ly/Dblcc6R"></a></code>
+<code><a href="https://www.canva.com/"><img src="https://cutt.ly/6blcbEW"></a></code>
+<code><a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://cutt.ly/AblcnIK"></a></code>
+<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cutt.ly/4blcmSw"></a></code>
 </p>
 
 ### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
@@ -110,7 +110,7 @@
   </a>
 </p>
     
-### <h2 align="center"><img src="https://icons.iconarchive.com/icons/kyo-tux/phuzion/24/Misc-Stats-icon.png"> Github Stats<h2/>   
+### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
@@ -124,5 +124,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://icons.iconarchive.com/icons/designbolts/free-valentine-heart/48/Heart-icon.png" width="20px"> in India</a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
     
