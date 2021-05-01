@@ -36,7 +36,7 @@
 
 <table align="center">
     <thead align="center">
-        <tr border: none;>
+        <tr border: 1px;>
             <td><b>Mini Projects</b></td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
