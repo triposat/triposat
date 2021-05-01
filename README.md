@@ -62,6 +62,14 @@
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Words_Dictionary?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Words_Dictionary?label=Python&style=flat-square"/></td>
         </tr>
+         <tr>
+            <td><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification"</a><b>Daily News Notifier</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Daily_News_Notification?style=flat-square"/></td>
+            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Daily_News_Notification?label=Python&style=flat-square"/></td>
+        </tr>
         <tr>
             <td><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier"</a><b>Battery Charging Notifier</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Battery_Charge_Notifier?style=flat-square&labelColor=343b41"/></td>
