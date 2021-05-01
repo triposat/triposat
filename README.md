@@ -53,7 +53,7 @@
             <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Covid_Cases_Notifier?label=Python&style=flat-square"/></td>
-        </td>
+        </tr>
         <tr>
             <td><a href="https://github.com/Iamtripathisatyam/Words_Dictionary"</a><b>English Words Dictionary</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
