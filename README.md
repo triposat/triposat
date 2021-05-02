@@ -30,7 +30,7 @@
 <code><a href="https://docs.microsoft.com/en-us/windows/terminal/"><img src="https://cutt.ly/AblcnIK"></a></code>
 <code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cutt.ly/4blcmSw"></a></code>
 </p>
-
+</br>
 <p align="center">     
 <a href="https://cutt.ly/rbz4iZj"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 </p>
