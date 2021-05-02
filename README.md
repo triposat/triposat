@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">     
-[<img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/>](https://cutt.ly/rbz4iZj)
+<a href="https://cutt.ly/rbz4iZj"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-red.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 </p>
 
 ### <h2 align="center">🔓 Projects Open for Contribution 🔓<h2/> 
