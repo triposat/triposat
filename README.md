@@ -113,7 +113,7 @@
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode&row=1&column=6&margin-w=8&margin-h=8" alt="Iamtripathisatyam" />
 </p>
 
 <p align="center">
