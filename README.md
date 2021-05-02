@@ -14,6 +14,7 @@
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
 - I’m Currently **Working on:** <h4><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=green">  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"> <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"><h4/>
 <h4/>
+- <h4><a href="https://cutt.ly/rbz4iZj"><img src="https://cutt.ly/Lbz85IZ" /></a></h4>
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
     
