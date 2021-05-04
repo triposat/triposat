@@ -126,6 +126,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
 </p>
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
     
