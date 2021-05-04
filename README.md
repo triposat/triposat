@@ -129,4 +129,4 @@
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>
     
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p align="center"><i>Copyright &copy; 2021 Satyam Tripathi</i></p>
