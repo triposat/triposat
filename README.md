@@ -14,7 +14,7 @@
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
 - I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
 
-<pre>  <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
+<pre>  <b><a id="raw-url" href="https://www.techgig.com/TechySatyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
 
 <pre>  <b><a id="raw-url" href="https://cutt.ly/3bYBDQv"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
