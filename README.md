@@ -12,7 +12,7 @@
     
 - I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
-- I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/CANVA-DESIGNING-green.svg?label=CANVA&style=social&logo=canva&logoColor=informational"/>
+- I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
 
 <pre>  <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HACKERRANK-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
 
