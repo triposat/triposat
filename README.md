@@ -18,7 +18,7 @@
 
 <pre>  <b><a id="raw-url" href="https://cutt.ly/3bYBDQv"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
-### <h2 align="center">Tech Stack<h2/>
+### <h2 align="center">💡Tech Stack<h2/>
     
 <p align="center">
 <code><a href="https://www.python.org/"><img src="https://cutt.ly/ablze6q"></a></code>
