@@ -20,17 +20,18 @@
 ### <h2 align="center">💡 Tech Stack 💡<h2/>
     
 <p align="center">
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cutt.ly/TblcfEv"></a></code>
-<code><a href="https://www.python.org/"><img src="https://cutt.ly/ablze6q"></a></code>
-<code><a href="https://html.com/"><img src="https://cutt.ly/nblcgXv"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://cutt.ly/Lblckdy"></a></code>
-<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://cutt.ly/tblcjad"></a></code>
-<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cutt.ly/YblclfT"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cutt.ly/8blcxf9"></a></code>
-<code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/Tblccsg"></a></code>
-<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cutt.ly/Dblcc6R"></a></code>
-<code><a href="https://www.canva.com/"><img src="https://cutt.ly/6blcbEW"></a></code>
-<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cutt.ly/4blcmSw"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cutt.ly/vbHBqKT" width="48px"></a></code>
+<code><a href="https://www.python.org/"><img src="https://cutt.ly/PbHV0WT" width="48px"></a></code>
+<code><a href="https://html.com/"><img src="https://cutt.ly/ubHBiFH" width="48px"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://cutt.ly/ZbHBjTu" width="48px"></a></code>
+<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://cutt.ly/nbHBmk2" width="48px"></a></code>
+<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cutt.ly/9bHNeQt" width="48px"></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cutt.ly/2bHNgsY" width="48px"></a></code>
+<code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/fbHNbS9" width="48px"></a></code>
+<code><a href="https://jupyter.org/"><img src="https://cutt.ly/XbHVXhs" width="48px"></a></code>
+<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cutt.ly/Dblcc6R" width="48px"></a></code>
+<code><a href="https://www.canva.com/"><img src="https://cutt.ly/PbHNA0X" width="48px"></a></code>
+<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
 </p>
 </br>
 
