@@ -30,7 +30,7 @@
 <code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/fbHNbS9" width="48px"></a></code>
 <code><a href="https://jupyter.org/"><img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" width="48px"></a></code>
 <code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/msword_94106.png" width="48px"></a></code>
-<code><a href="https://www.canva.com/"><img src="https://cutt.ly/PbHNA0X" width="48px"></a></code>
+<code><a href="https://www.canva.com/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" width="48px"></a></code>
 <code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
 </p>
 </br>
