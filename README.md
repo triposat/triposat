@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Tech.gif">
 </p>    
+
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
 
