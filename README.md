@@ -116,15 +116,15 @@
 ### <h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>   
       
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode" alt="Iamtripathisatyam" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dracula"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact" alt="Iamtripathisatyam" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dracula&layout=compact"/>
 </p>
 
 ___________________________________
