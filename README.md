@@ -15,7 +15,7 @@
 
 <pre>  <b><a id="raw-url" href="https://cutt.ly/3bYBDQv"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
-<h3 align="center">💡 Tech Stack 💡</h3>
+<h2 align="center">💡 Tech Stack 💡</h2>
 <p align="center">
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" width="48px"></a></code>
 <code><a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="48px"></a></code>
@@ -31,7 +31,7 @@
 <code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
 </p>
 
-<h3 align="center">🔓 Projects Open for Contribution 🔓</h3>
+<h2 align="center">🔓 Projects Open for Contribution 🔓</h2>
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -95,19 +95,19 @@
     </tbody>        
 </table>
 
-<h3 align="center">🔥 My Contribution Streak 🔥</h3>
+<h2 align="center">🔥 My Contribution Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
-<h3 align="center">🏆 Github Trophies 🏆</h3>
+<h2 align="center">🏆 Github Trophies 🏆</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>   
-<h3 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats</h3>      
+<h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats</h2>      
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
