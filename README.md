@@ -2,9 +2,6 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Poster.gif">
 </p>    
 
-![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
-![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
-
 <h3 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h3>
      
 - I'm a **2<sup>nd</sup>** Year **CSE Student**, **Programmer**, **Designer**, and **Developer**.
