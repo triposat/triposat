@@ -6,9 +6,6 @@
 </p>
      
 ### <h2 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"><h2/>
-    
-<h4>   
-    
 - I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
 - I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
