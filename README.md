@@ -107,7 +107,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>   
-<h3 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h3/>      
+<h3 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats</h3>      
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
@@ -122,4 +122,4 @@
 
 ___________________________________
 
-<p>&copy; 2021 Satyam Tripathi</p>
+<ol><p>&copy; 2021 Satyam Tripathi</p></ol>
