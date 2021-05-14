@@ -2,19 +2,20 @@
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
 
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="200px">
-</p>
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="180px">
+</p>    
+<h3 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h3>
      
-### <h2 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"><h2/>
-- I'm a 2<sup>nd</sup> Year CSE Student, **Programmer**, **Designer**, and **Developer**.
+- I'm a 2<sup>nd</sup> Year CSE Student, Programmer, Designer, and Developer.
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
+- Primary Coding Language: <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="16px" heigt="14px">
 - I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
 
 <pre>  <b><a id="raw-url" href="https://www.techgig.com/TechySatyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
 
 <pre>  <b><a id="raw-url" href="https://cutt.ly/3bYBDQv"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
-<h3 align="center">💡 Tech Stack 💡<h3/>  
+<h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" width="48px"></a></code>
 <code><a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="48px"></a></code>
@@ -29,9 +30,8 @@
 <code><a href="https://www.canva.com/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" width="48px"></a></code>
 <code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
 </p>
-</br>
 
-<h3 align="center">🔓 Projects Open for Contribution 🔓<h3/> 
+<h3 align="center">🔓 Projects Open for Contribution 🔓</h3>
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -95,19 +95,19 @@
     </tbody>        
 </table>
 
-<h3 align="center">🔥 My Contribution Streak 🔥<h3/>
+<h3 align="center">🔥 My Contribution Streak 🔥</h3>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
-<h3 align="center">🏆 Github Trophies 🏆<h2/>
+<h3 align="center">🏆 Github Trophies 🏆</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>   
-<h3 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h2/>      
+<h3 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats<h3/>      
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
