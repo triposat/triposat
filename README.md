@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Iamtripathisatyam)<br/>
 
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Programmer.gif" width="180px">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Techy.gif">
 </p>    
 <h3 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h3>
      
