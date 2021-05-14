@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Tech.gif">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Poster.gif">
 </p>    
 
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)  <br/>
