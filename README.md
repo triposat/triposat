@@ -105,7 +105,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
   </a>
 </p>   
-<h2 align="center"><img src="https://cutt.ly/KblcWC8"> Github Stats</h2>      
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/963/PNG/512/1477521928_10_icon-icons.com_74620.png" width='25px'> Github Stats</h2>      
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
