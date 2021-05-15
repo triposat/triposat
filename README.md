@@ -6,7 +6,7 @@
      
 - I'm a **2<sup>nd</sup>** Year **CSE Student**, **Programmer**, **Designer**, and **Developer**.
 - Currently Pursuing **B.Tech From **PSIT** Kanpur.**
-- Primary **Coding Language**: <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="16px" heigt="14px">
+- Primary **Coding Language**: **Python**
 - I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
 
 <pre>  <b><a id="raw-url" href="https://www.techgig.com/TechySatyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
