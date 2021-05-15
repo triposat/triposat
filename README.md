@@ -29,7 +29,7 @@
 <code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
 </p>
 
-<h2 align="center">🔓 Projects Open for Contribution 🔓</h2>
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Projects Open for Contribution</h2>
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -93,13 +93,13 @@
     </tbody>        
 </table>
 
-<h2 align="center">🔥 My Contribution Streak 🔥</h2>
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_yes_icon_157194.png" width="23px"> My Contribution Streak </h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
     
-<h2 align="center">🏆 Github Trophies 🏆</h2>
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886316-39-trophy_82485.png" width="20px"> Github Trophies</h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
