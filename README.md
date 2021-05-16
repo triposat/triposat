@@ -18,7 +18,6 @@
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" width="48px"></a></code>
 <code><a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="48px"></a></code>
 <code><a href="https://html.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="48px"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Data_structure"><img src="https://cdn.icon-icons.com/icons2/1076/PNG/512/hierarchystructure_77889.png" width="48px"></a></code>
 <code><a href="https://github.com/Iamtripathisatyam/"><img src="https://cdn.icon-icons.com/icons2/2749/PNG/512/github_apps_platform_icon_176077.png" width="48px"></a></code>
 <code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cdn.icon-icons.com/icons2/183/PNG/256/Dev_22513.png" width="48px"></a></code>
 <code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" width="48px"></a></code>
