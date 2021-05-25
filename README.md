@@ -42,53 +42,13 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Mini_Assistant"</a><b>Mini Assistant</b></td>
+            <td><a href="https://github.com/Iamtripathisatyam/Mini_Assistant"</a><b>Virtual Assistant</b></td>
             <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Mini_Assistant?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Mini_Assistant?style=flat-square"/></td>
             <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Mini_Assistant?label=Python&style=flat-square"/></td>
         </tr>
-        <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Covid_Cases_Notifier"</a><b>Covid-19 Cases Notifier</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Covid_Cases_Notifier?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Covid_Cases_Notifier?label=Python&style=flat-square"/></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Words_Dictionary"</a><b>English Words Dictionary</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Words_Dictionary?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Words_Dictionary?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Words_Dictionary?label=Python&style=flat-square"/></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification"</a><b>Daily News Notifier</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Daily_News_Notification?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Daily_News_Notification?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Daily_News_Notification?label=Python&style=flat-square"/></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier"</a><b>Battery Charging Notifier</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Battery_Charge_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Battery_Charge_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Battery_Charge_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Battery_Charge_Notifier?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Battery_Charge_Notifier?label=Python&style=flat-square"/></td>
-         </tr>
-        <tr>
-            <td><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"</a><b>Weather Forecast</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Iamtripathisatyam/Weather_Updates_Notifier?style=flat-square"/></td>
-            <td><img alt="Language"src="https://img.shields.io/github/languages/top/Iamtripathisatyam/Weather_Updates_Notifier?label=Python&style=flat-square"/></td>
-       </tr>
     </tbody>        
 </table>
 
