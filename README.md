@@ -11,7 +11,7 @@
 
 <pre>  <b><a id="raw-url" href="https://www.techgig.com/TechySatyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
 
-<pre>  <b><a id="raw-url" href="https://cutt.ly/nntt9Jq"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
+<pre>  <b><a id="raw-url" href="https://cutt.ly/tntgDz5"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/520/PNG/512/Stack_icon-icons.com_51887.png" width="20px"> Tech Stack </h2>
 <p align="center">
