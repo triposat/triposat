@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Hey_Tech.gif">
+<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Banner.gif">
 </p>    
 
 <a id="raw-url" href="https://cutt.ly/tntgDz5"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
