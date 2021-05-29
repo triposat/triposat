@@ -28,12 +28,6 @@
     </tbody>        
 </table>
 
-      
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/963/PNG/512/1477521928_10_icon-icons.com_74620.png" width='25px'> Github Stats</h2>      
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
-</p>
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dark"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark"/>
