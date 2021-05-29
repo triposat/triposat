@@ -2,31 +2,7 @@
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Hey_Tech.gif">
 </p>    
 
-<h3 align="center">Hello<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="35px"><𝚌𝚘𝚍𝚎𝚛𝚜/>!,  I'm an Enthusiastic Learner from <mark>INDIA<mark/><img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/flag.gif" width="30px"></h3>
-     
-- I'm a **2<sup>nd</sup>** Year **CSE Student**, **Programmer**, **Designer**, and **Developer**.
-- Currently Pursuing **B.Tech From **PSIT** Kanpur.**
-- Primary **Coding Language**: **Python**
-- I’m Currently **Working on:** </br></br><img src="https://img.shields.io/badge/PYTHON-PROGRAMMING-yellow.svg?label=PYTHON&style=social&logo=python&logoColor=yellow"/>  <img src="https://img.shields.io/badge/DATA-STRUCTURES-9cf.svg?label=DATA&style=social&logo=GraphQL&logoColor=red"/>  <img src="https://img.shields.io/badge/-CONTRIBUTION-green.svg?label=OPEN-SOURCE&style=social&logo=github&logoColor=informational"/>
-
-<pre>  <b><a id="raw-url" href="https://www.techgig.com/TechySatyam"><img src="https://img.shields.io/badge/TechGig-PROFILE-black.svg?logo=cognizant&logoColor=red&style=for-the-badge"/></a></b> <b><a id="raw-url" href="https://www.hackerrank.com/Hack_Satyam"><img src="https://img.shields.io/badge/HackerRank-PROFILE-black.svg?logo=HackerRank&logoColor=green&style=for-the-badge"/></a></b></pre>
-
 <pre>  <b><a id="raw-url" href="https://cutt.ly/tntgDz5"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a></b></pre>
-
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/520/PNG/512/Stack_icon-icons.com_51887.png" width="20px"> Tech Stack </h2>
-<p align="center">
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" width="48px"></a></code>
-<code><a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" width="48px"></a></code>
-<code><a href="https://html.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="48px"></a></code>
-<code><a href="https://github.com/Iamtripathisatyam/"><img src="https://cdn.icon-icons.com/icons2/2749/PNG/512/github_apps_platform_icon_176077.png" width="48px"></a></code>
-<code><a href="https://sourceforge.net/projects/dev-cpp/"><img src="https://cdn.icon-icons.com/icons2/183/PNG/256/Dev_22513.png" width="48px"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" width="48px"></a></code>
-<code><a href="https://code.visualstudio.com/"><img src="https://cutt.ly/fbHNbS9" width="48px"></a></code>
-<code><a href="https://jupyter.org/"><img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" width="48px"></a></code>
-<code><a href="https://www.microsoft.com/en-in/microsoft-365/word"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/msword_94106.png" width="48px"></a></code>
-<code><a href="https://www.canva.com/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" width="48px"></a></code>
-<code><a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="48px"></a></code>
-</p>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <table align="center">
@@ -52,29 +28,15 @@
     </tbody>        
 </table>
 
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/2621/PNG/512/gui_check_yes_icon_157194.png" width="23px"> My Contribution Streak </h2>
-<p align="center">
-  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-    
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886316-39-trophy_82485.png" width="20px"> Github Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iamtripathisatyam&row=1&column=6&margin-w=8&margin-h=8&theme=gruvbox"/>
-  </a>
-</p>   
+      
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/963/PNG/512/1477521928_10_icon-icons.com_74620.png" width='25px'> Github Stats</h2>      
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Iamtripathisatyam&theme=xcode"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtripathisatyam&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&show_icons=true&theme=dark"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark"/>
 </p>
 
 ___________________________________
