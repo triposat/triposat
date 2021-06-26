@@ -39,5 +39,4 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Daily_News_Notification&theme=dark"  />
 </p>
 
-
 <ol><p>&copy; 2021 Satyam Tripathi</p></ol>
