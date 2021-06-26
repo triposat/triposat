@@ -33,10 +33,9 @@
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=dark"/>
 </p>
 
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Featured Projects</h2>
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p align = "center">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=
-Covid-19_Cases_Visualization&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Daily_News_Notification&theme=dark"  />
 </p>
 
