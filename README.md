@@ -9,7 +9,7 @@
 - [**Convert Text Image to Hand Written Text Image using Python**](https://www.geeksforgeeks.org/convert-text-image-to-hand-written-text-image-using-python/)
 - [**Export WhatsApp Chat History to Excel Using Python**](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
 - [**Send Chrome Notification Using Python**](https://www.geeksforgeeks.org/send-chrome-notification-using-python/)
-
+- [**Generate Captcha Using Python**](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <table align="center">
