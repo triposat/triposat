@@ -10,8 +10,8 @@
 - [**How to create AGE Calculator Web App PyWebIO in Python?**](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/)
 - [**Export WhatsApp Chat History to Excel Using Python**](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
 - [**Send Chrome Notification Using Python**](https://www.geeksforgeeks.org/send-chrome-notification-using-python/)
-- [**Generate Captcha Using Python**](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 - [**Fun Fact Generator Web App in Python**](https://www.geeksforgeeks.org/fun-fact-generator-web-app-in-python/)
+- [**Generate Captcha Using Python**](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <table align="center">
