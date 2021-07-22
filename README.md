@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Banner.gif">
 </p>    
-<a id="raw-url" href="https://cutt.ly/PmoVatL"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
+<a id="raw-url" href="https://cutt.ly/Mm3lubb"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <h2 align="center"><img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Actions-document-edit-icon.png" width="20px"> Articles</h2>
 
 - [**Move Files To Creation and Modification Date Named Directories**](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
