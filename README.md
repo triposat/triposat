@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Iamtripathisatyam/iamtripathisatyam/blob/master/Content/Banner.gif">
+<img src="https://user-images.githubusercontent.com/69134468/126588818-9b10bdc1-5ca2-4f9b-81e8-1a73563cc261.gif">
 </p>    
 <a id="raw-url" href="https://cutt.ly/8m3lGHP"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <h2 align="center"><img src="https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Actions-document-edit-icon.png" width="20px"> Articles</h2>
