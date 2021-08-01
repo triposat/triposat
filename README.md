@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/126588818-9b10bdc1-5ca2-4f9b-81e8-1a73563cc261.gif">
+<img src="https://user-images.githubusercontent.com/69134468/127773709-f982c21e-e555-4ae4-a070-16cc51288b0b.gif">
 </p>    
+
 <a id="raw-url" href="https://cutt.ly/cQhmgzY"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://cutt.ly/HQjs2mo"><img src="https://img.shields.io/badge/GeeksforGeeks-Articles-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
 
