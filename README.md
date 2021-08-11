@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/127773709-f982c21e-e555-4ae4-a070-16cc51288b0b.gif">
+<img src="https://user-images.githubusercontent.com/69134468/128991927-90d5e97f-96bb-443f-8725-a59e29b7798b.gif">
 </p>    
 
 <a id="raw-url" href="https://cutt.ly/cQhmgzY"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
