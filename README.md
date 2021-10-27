@@ -33,8 +33,8 @@
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true" />
 </p>
-
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p align = "center">
      <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
