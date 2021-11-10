@@ -34,7 +34,7 @@
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> LeetCode Challenge</h2>
 <p align="center">
-    <a href="https://github.com/Iamtripathisatyam/Leetcode-Challenge"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Leetcode-Challenge&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+    <a href="https://github.com/Iamtripathisatyam/Leetcode-Challenge"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Leetcode-Challenge&show_icons=true&theme=ayu-mirage&cache_seconds=30&hide_border=false"  /></a>
 </p>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
@@ -46,17 +46,17 @@
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 <p align = "center">
-     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
 <p align = "center">
-  <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a> &nbsp;
-  <a href="https://github.com/Iamtripathisatyam/Daily_News_Notification"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Daily_News_Notification&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+  <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=omni&cache_seconds=30&hide_border=true" /></a> &nbsp;
+  <a href="https://github.com/Iamtripathisatyam/Daily_News_Notification"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Daily_News_Notification&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
 <p align = "center">
-  <a href="https://github.com/Iamtripathisatyam/Words_Dictionary"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Words_Dictionary&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a> &nbsp;
-  <a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Weather_Updates_Notifier&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+  <a href="https://github.com/Iamtripathisatyam/Words_Dictionary"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Words_Dictionary&show_icons=true&theme=omni&cache_seconds=30&hide_border=true" /></a> &nbsp;
+  <a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Weather_Updates_Notifier&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
 <ol><p>&copy; 2021 Satyam Tripathi</p></ol>
