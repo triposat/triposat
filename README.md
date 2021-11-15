@@ -59,4 +59,4 @@
   <a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Weather_Updates_Notifier&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
-<ol><p>&copy; 2021 Satyam Tripathi</p></ol>
+<ol><p>&copy; 2021 Satyam Tripathi </p></ol>
