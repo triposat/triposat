@@ -4,9 +4,7 @@
 
 <a id="raw-url" href="https://bit.ly/34HVcu7"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
-<a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
-<a id="raw-url" href="https://cutt.ly/HQjs2mo"><img src="https://img.shields.io/badge/GeeksforGeeks-Articles-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
-
+<a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
 <!--
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <table align="center">
