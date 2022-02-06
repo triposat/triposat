@@ -3,7 +3,8 @@
 </p>    
 
 <a id="raw-url" href="https://bit.ly/34HVcu7"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
-<a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=orange&style=for-the-badge"/></a>
+<a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
+<a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
 <a id="raw-url" href="https://cutt.ly/HQjs2mo"><img src="https://img.shields.io/badge/GeeksforGeeks-Articles-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
 
 <!--
