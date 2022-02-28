@@ -30,11 +30,10 @@
 </table>
 -->
 
-<!-- <h2 align="center"><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Coding Challenge</h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Coding Challenge</h2>
 <p align="center">
-
-<a href="https://github.com/Iamtripathisatyam/Coding_Challenge"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Leetcode-Challenge&show_icons=true&theme=ayu-mirage&cache_seconds=30&hide_border=false"  /></a>
-</p> -->
+<a href="https://github.com/Iamtripathisatyam/Daily_Challenges"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Leetcode-Challenge&show_icons=true&theme=ayu-mirage&cache_seconds=30&hide_border=false"/></a>
+</p>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
 <p align="center">
