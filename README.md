@@ -32,7 +32,7 @@
 
 <h2 align="center">&#128200; Coding Stats</h2>
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/leet_satyam?ext=contest&border=0&theme=dark"/></a>
+<img src="https://leetcard.jacoblin.cool/leet_satyam?ext=contest&border=1&theme=dark"/></a>
 </p>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
