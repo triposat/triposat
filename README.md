@@ -30,9 +30,9 @@
 </table>
 -->
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/69134468/141054365-7d0281dd-5397-45b9-8c26-02a7724d9f05.png" width="20px"> Daily Challenges</h2>
+<h2 align="center">&#128200; Coding Stats</h2>
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Daily-Coding-Challenges"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Daily-Coding-Challenges&show_icons=true&theme=ayu-mirage&cache_seconds=30&hide_border=false"/></a>
+<img src="https://leetcard.jacoblin.cool/leet_satyam?ext=contest&border=0&theme=dark"/></a>
 </p>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
