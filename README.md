@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69134468/155836288-267fb937-f5da-4b36-a7cb-cb11e787006f.gif">
 </p>    
-<a id="raw-url" href="https://drive.google.com/drive/folders/1CywcQP36KZNsVS4Zm_X0_H4_CuxkF2Lc?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
+<a id="raw-url" href="https://drive.google.com/file/d/1DjtESTSbwfaOisG8u_mJi9BdaznjPtaq/view?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
 <!--
