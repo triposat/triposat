@@ -1,9 +1,17 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/155836288-267fb937-f5da-4b36-a7cb-cb11e787006f.gif">
-</p>    
 <a id="raw-url" href="https://drive.google.com/drive/folders/10ntiSJbqdf3WCHgT9P0YnhzoAT7zMHvA?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
 <a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/69134468/155836288-267fb937-f5da-4b36-a7cb-cb11e787006f.gif">
+</p>    
+
+
+<h2 align="center">Hacktoberfest 2022</h2>
+<p align = "center">
+     <img width=90% height=90% src="https://holopin.me/geeky_satyam"/>
+</p>
+
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 
@@ -31,11 +39,15 @@
 
 
 
-<h2 align="center">Hacktoberfest 2022</h2>
 
-<p align = "center">
-     <img width=80% height=80% src="https://holopin.me/geeky_satyam"/>
-</p>
+
+
+
+
+
+
+
+
 
 
 <!--
