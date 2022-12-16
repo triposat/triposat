@@ -31,7 +31,7 @@
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
 <p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=truek"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamtripathisatyam&theme=dracula"/>
 </p>
