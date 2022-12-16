@@ -12,7 +12,7 @@
 </p>
  -->
 
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
+<h2 align="center">Projects</h2>
 
 <p align = "center">
      <a href="https://github.com/Iamtripathisatyam/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
@@ -23,17 +23,27 @@
    <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
 </p>
 
+<h2 align="center">Blogs</h2>
+<p align="left">
+     
+<a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><img src="https://user-images.githubusercontent.com/69134468/208149571-712f9b22-9abe-487c-87b3-08da0647236b.png" alt="Best Resources to Master Data Structures and Algorithms" width="250px" align="left" /></a>
 
+</br>
+<a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><strong>Best Resources to Master Data Structures and Algorithms</strong></a></br>
+There are many Data Structures & Algorithms resources available on Google. In this blog, I will provide you with some of the most useful resources that will help you in mastering DSA. Almost all multinational corporations (service-based or product-based companies) ask DSA questions during their interview rounds.
+</p> 
+     
+     
+     
 
-
-<!-- <h2 align="center">&#128200; Coding Stats</h2>
+<!--  <h2 align="center">&#128200; Coding Stats</h2>
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/leet_satyam?ext=contest&border=1&theme=dark"/></a>
-</p> -->
+</p>
+ -->
 
 
-
-<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/632/PNG/128/graph-9_icon-icons.com_58019.png" width="20px"> Stats</h2>
+<h2 align="center">Stats</h2>
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>
