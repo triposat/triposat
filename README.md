@@ -3,9 +3,8 @@
 <a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a> -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/155836288-267fb937-f5da-4b36-a7cb-cb11e787006f.gif">
+<img src="https://user-images.githubusercontent.com/69134468/208078737-4d535375-941a-4565-a2e5-663042accfc7.png">
 </p>    
-
 
 <!-- <h2 align="center">Hacktoberfest 2022</h2>
 <p align = "center">
@@ -16,12 +15,12 @@
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/928/PNG/512/features_icon-icons.com_72205.png" width="20px"> Featured Projects</h2>
 
 <p align = "center">
-     <a href="https://github.com/Iamtripathisatyam/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=College-Portal&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a>
+     <a href="https://github.com/Iamtripathisatyam/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
  <p align = "center">
-     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=omni&cache_seconds=30&hide_border=true"  /></a> &nbsp;
-   <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=omni&cache_seconds=30&hide_border=true" /></a>
+     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
+   <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
 </p>
 
 
