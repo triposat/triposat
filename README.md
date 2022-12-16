@@ -3,8 +3,8 @@
 <a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a> -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/208079537-67e92683-5222-4c99-a452-d7f1e886a6fd.png">
-</p>    
+<img src="https://user-images.githubusercontent.com/69134468/208145131-81c719be-e374-4ab1-87fb-e9d20a64c6af.png">
+</p>
 
 <!-- <h2 align="center">Hacktoberfest 2022</h2>
 <p align = "center">
