@@ -23,7 +23,7 @@
    <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
 </p>
 
-<h2 align="center">Blogs</h2>
+<h2 align="center">Latest Blogs</h2>
 <p align="left">
      
 <a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><img src="https://user-images.githubusercontent.com/69134468/208149571-712f9b22-9abe-487c-87b3-08da0647236b.png" alt="Best Resources to Master Data Structures and Algorithms" width="250px" align="left" /></a>
