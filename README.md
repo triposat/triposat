@@ -60,6 +60,8 @@ The purpose is to provide you with all the information you need about SQL. We wi
 
 <!-- Some Featured Projects -->
 
+</br>
+
 <h2 align="center">Projects</h2>
 
 <p align = "center">
