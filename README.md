@@ -1,27 +1,31 @@
-<!-- <a id="raw-url" href="https://drive.google.com/drive/folders/10ntiSJbqdf3WCHgT9P0YnhzoAT7zMHvA?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a> -->
-<!-- <a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
-<a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a> -->
+<!-- Main Header -->
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69134468/208145131-81c719be-e374-4ab1-87fb-e9d20a64c6af.png">
+<img src="https://user-images.githubusercontent.com/69134468/208226500-c679c10d-baf8-46a2-b592-2933c609584d.png">
 </p>
 
-<!-- <h2 align="center">Hacktoberfest 2022</h2>
-<p align = "center">
-     <img width=90% height=90% src="https://holopin.me/geeky_satyam"/>
-</p>
- -->
+<!-- ---------------------------------- -->
+
+
+
+<!-- Some Featured Projects -->
 
 <h2 align="center">Projects</h2>
 
 <p align = "center">
-     <a href="https://github.com/Iamtripathisatyam/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+     <a href="https://github.com/triposat/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
 </p>
 
  <p align = "center">
-     <a href="https://github.com/Iamtripathisatyam/Mini_Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Desktop_Virtual_Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
-   <a href="https://github.com/Iamtripathisatyam/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamtripathisatyam&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
+     <a href="https://github.com/triposat/Marvin-Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Marvin-Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
+   <a href="https://github.com/triposat/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
 </p>
+
+<!-- -------------------- -->
+
+
+
+<!-- My Latest Blogs Published -->
 
 <h2 align="center">Latest Blogs</h2>
 <p align="left">
@@ -32,9 +36,26 @@
 <a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><strong>Best Resources to Master Data Structures and Algorithms</strong></a></br>
 There are many Data Structures & Algorithms resources available on Google. In this blog, I will provide you with some of the most useful resources that will help you in mastering DSA. Almost all multinational corporations (service-based or product-based companies) ask DSA questions during their interview rounds.
 </p> 
-     
-     
-     
+
+<!-- ------------------------------ -->
+
+
+<!-- GitHub Stats -->
+
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=triposat&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=triposat&theme=react&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triposat&theme=dracula"/>
+</p>
+
+<!-- ------------------------------ -->
+
+
+
+
+
+
 
 <!--  <h2 align="center">&#128200; Coding Stats</h2>
 <p align="center">
@@ -43,26 +64,16 @@ There are many Data Structures & Algorithms resources available on Google. In th
  -->
 
 
-<h2 align="center">Stats</h2>
-<p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iamtripathisatyam&theme=react&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamtripathisatyam&theme=dracula"/>
+<!-- <a id="raw-url" href="https://drive.google.com/drive/folders/10ntiSJbqdf3WCHgT9P0YnhzoAT7zMHvA?usp=sharing"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME-black.svg?logo=docusign&logoColor=yellow&style=for-the-badge"/></a> -->
+<!-- <a id="raw-url" href="https://leetcode.com/leet_satyam/"><img src="https://img.shields.io/badge/LeetCode-Profile-black.svg?logo=leetcode&logoColor=yellow&style=for-the-badge"/></a>
+<a id="raw-url" href="https://auth.geeksforgeeks.org/user/gittysatyam/profile"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-black.svg?logo=GeeksforGeeks&logoColor=green&style=for-the-badge"/></a> -->
+
+
+<!-- <h2 align="center">Hacktoberfest 2022</h2>
+<p align = "center">
+     <img width=90% height=90% src="https://holopin.me/geeky_satyam"/>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ -->
 
 <!--
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
