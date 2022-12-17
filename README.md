@@ -28,13 +28,34 @@
 <!-- My Latest Blogs Published -->
 
 <h2 align="center">Latest Blogs</h2>
+
 <p align="left">
+
+<!--  --------------------------------- 1st Blog Start ----------------------------------------- -->
      
 <a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><img src="https://user-images.githubusercontent.com/69134468/208149571-712f9b22-9abe-487c-87b3-08da0647236b.png" alt="Best Resources to Master Data Structures and Algorithms" width="250px" align="left" /></a>
 
 </br>
+
 <a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><strong>Best Resources to Master Data Structures and Algorithms</strong></a></br>
 There are many Data Structures & Algorithms resources available on Google. In this blog, I will provide you with some of the most useful resources that will help you in mastering DSA. Almost all multinational corporations (service-based or product-based companies) ask DSA questions during their interview rounds.
+
+<!-- ------------------------------------- 1st Blog End ------------------------------- -->
+
+</br>
+
+<!-- ---------------------------- 2nd Blog Start -------------------------------- -->
+
+<a href="https://www.showwcase.com/show/18713/sql-tutorials-for-a-part-1" title="SQL Tutorials for Beginners (Part 1)"><img src="https://user-images.githubusercontent.com/69134468/208227108-aecb5fb2-cf97-47ec-8175-f35a12b90992.png" alt="SQL Tutorials for Beginners (Part 1)" width="250px" align="left" /></a>
+
+</br>
+
+<a href="https://www.showwcase.com/show/18713/sql-tutorials-for-a-part-1" title="SQL Tutorials for Beginners (Part 1)"><strong>SQL Tutorials for Beginners (Part 1)</strong></a></br>
+The purpose is to provide you with all the information you need about SQL. We will begin with the basics and then move on to more advanced techniques. Step-by-step, you will learn how to write SQL queries to retrieve specific information, update some information, and many other such things.
+
+
+<!-- --------------------------------- 2nd Blog End --------------------------------------- -->
+
 </p> 
 
 <!-- ------------------------------ -->
