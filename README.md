@@ -63,7 +63,7 @@ The purpose is to provide you with all the information you need about SQL. We wi
 
 <!-- ------------------------------ -->
 
-
+</br>
 <!-- GitHub Stats -->
 
 <h2 align="center">Stats</h2>
