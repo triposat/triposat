@@ -44,6 +44,9 @@ There are many Data Structures & Algorithms resources available on Google. In th
 
 </br>
 
+</p>
+
+<p align="left">
 <!-- ---------------------------- 2nd Blog Start -------------------------------- -->
 
 <a href="https://www.showwcase.com/show/18713/sql-tutorials-for-a-part-1" title="SQL Tutorials for Beginners (Part 1)"><img src="https://user-images.githubusercontent.com/69134468/208227108-aecb5fb2-cf97-47ec-8175-f35a12b90992.png" alt="SQL Tutorials for Beginners (Part 1)" width="250px" align="left" /></a>
