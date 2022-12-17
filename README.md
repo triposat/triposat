@@ -6,23 +6,17 @@
 
 <!-- ---------------------------------- -->
 
+<!-- ------------------------------ About me ----------------------------------- -->
 
+<div align="center">
+  
+I am a **Python Developer** and a **Freelance Technical Writer**. It has been **1.5 years** since I started writing and **2 years** since I started working with Python. So far, I have published **65+ articles** ✅ on various platforms like *GeeksforGeeks*, *Scaler Academy*, *StackAbuse*, and *SigNoz*. Currently, I am learning Web Development, DevOps, and Web3.
 
-<!-- Some Featured Projects -->
+<br>  
+  
+</div>
 
-<h2 align="center">Projects</h2>
-
-<p align = "center">
-     <a href="https://github.com/triposat/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
-</p>
-
- <p align = "center">
-     <a href="https://github.com/triposat/Marvin-Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Marvin-Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
-   <a href="https://github.com/triposat/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
-</p>
-
-<!-- -------------------- -->
-
+<!-- ------------------------------------------------------ -->
 
 
 <!-- My Latest Blogs Published -->
@@ -62,6 +56,24 @@ The purpose is to provide you with all the information you need about SQL. We wi
 </p> 
 
 <!-- ------------------------------ -->
+
+
+<!-- Some Featured Projects -->
+
+<h2 align="center">Projects</h2>
+
+<p align = "center">
+     <a href="https://github.com/triposat/College-Portal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=College-Portal&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a>
+</p>
+
+ <p align = "center">
+     <a href="https://github.com/triposat/Marvin-Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Marvin-Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
+   <a href="https://github.com/triposat/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
+</p>
+
+<!-- -------------------- -->
+
+
 
 </br>
 <!-- GitHub Stats -->
