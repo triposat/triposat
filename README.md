@@ -10,7 +10,7 @@
 
 <div align="center">
   
-I am a **Python Developer** and a **Freelance Technical Writer**. It has been **1.5 years** since I started writing and **2 years** since I started working with Python. So far, I have published **65+ articles** ✅ on various platforms like *GeeksforGeeks*, *Scaler Academy*, *StackAbuse*, and *SigNoz*. Currently, I am learning Web Development, DevOps, and Web3.
+I am a **Python Developer** and a **Freelance Technical Writer**. It has been **1.5 years** since I started writing and **2 years** since I started working with Python. So far, I have published **65+ articles** ✅ on various platforms like *GeeksforGeeks*, *Scaler Academy*, *StackAbuse*, and *SigNoz*. Currently, I am learning **Web Development**, **DevOps**, and **Web3**.
 
 <br>  
   
