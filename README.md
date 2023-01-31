@@ -27,12 +27,12 @@ I am a **Freelance Technical Writer** and **Python Developer**. I have been writ
 
 <!--  --------------------------------- 1st Blog Start ----------------------------------------- -->
      
-<a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><img src="https://user-images.githubusercontent.com/69134468/208149571-712f9b22-9abe-487c-87b3-08da0647236b.png" alt="Best Resources to Master Data Structures and Algorithms" width="250px" align="left" /></a>
+<a href="https://triposat.hashnode.dev/getting-started-with-devops" title="Getting Started with DevOps"><img src="https://user-images.githubusercontent.com/69134468/215691973-26718254-9119-400b-abdd-01915aa49e70.png" alt="Getting Started with DevOps" width="250px" align="left" /></a>
 
 </br>
 
-<a href="https://www.showwcase.com/show/18647/best-resources-to-master-data-structures-and-algorithms" title="Best Resources to Master Data Structures and Algorithms"><strong>Best Resources to Master Data Structures and Algorithms</strong></a></br>
-There are many Data Structures & Algorithms resources available on Google. In this blog, I will provide you with some of the most useful resources that will help you in mastering DSA. Almost all multinational corporations (service-based or product-based companies) ask DSA questions during their interview rounds.
+<a href="https://triposat.hashnode.dev/getting-started-with-devops" title="Getting Started with DevOps"><strong>Getting Started with DevOps</strong></a></br>
+DevOps is nothing but implementing automation at each and every stage. The term DevOps is a combination of two terms: Development & Operations. DevOps aims to reduce the development life cycle of a system. DevOps Team is a combination of the Development Team and the Operations Team.
 
 <!-- ------------------------------------- 1st Blog End ------------------------------- -->
 
