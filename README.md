@@ -10,7 +10,7 @@
 
 <div align="center">
   
-I am a **Freelance Technical Writer** and **Python Developer**. I have been writing for **1.5** years and working with Python for **2** years. I have published **65+** ✅ articles on topics such as Python, SQL, Web Development, Computer Science Core Subjects, Cloud, Testing, etc. Currently, I am learning **Web Development** & **DevOps**.
+I'm an experienced **Freelance Technical Writer** with **2+** years of experience. I've worked on **70+** blogs for **5+** clients, and I can write 100% original content on various topics such as Programming, Cloud Computing, Web Development, DevOps, and Blockchain. I continuously upskill myself in Web Development and DevOps..
 
 <br>  
   
