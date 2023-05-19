@@ -1,27 +1,27 @@
 <!-- Main Header -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://user-images.githubusercontent.com/69134468/208226500-c679c10d-baf8-46a2-b592-2933c609584d.png">
-</p>
+</p> -->
 
 <!-- ---------------------------------- -->
 
 <!-- ------------------------------ About me ----------------------------------- -->
 
-<div align="center">
+<!-- <div align="center">
   
 I'm an experienced **Freelance Technical Writer** with **2+** years of experience. I've worked on **70+** blogs for **5+** clients, and I can write 100% original content on various topics such as Programming, Cloud Computing, Web Development, DevOps, and Blockchain. I continuously upskill myself in Web Development and DevOps..
 
 <br>  
   
-</div>
+</div> -->
 
 <!-- ------------------------------------------------------ -->
 
 
 <!-- My Latest Blogs Published -->
 
-<h2 align="center">Latest Blogs</h2>
+<h2 align="center">DevOps Blogs ☁ </h2>
 
 <p align="left">
 
@@ -53,14 +53,14 @@ The purpose is to provide you with all the information you need about SQL. We wi
 
 <!-- --------------------------------- 2nd Blog End --------------------------------------- -->
 
-</p> 
+<!-- </p>  -->
 
 <!-- ------------------------------ -->
 
 
 <!-- Some Featured Projects -->
 
-</br>
+<!-- </br>
 
 <h2 align="center">Projects</h2>
 
@@ -71,21 +71,21 @@ The purpose is to provide you with all the information you need about SQL. We wi
  <p align = "center">
      <a href="https://github.com/triposat/Marvin-Assistant"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Marvin-Assistant&show_icons=true&theme=react&cache_seconds=30&hide_border=true"  /></a> &nbsp;
    <a href="https://github.com/triposat/Covid-19_Cases_Visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=triposat&repo=Covid-19_Cases_Visualization&show_icons=true&theme=react&cache_seconds=30&hide_border=true" /></a>
-</p>
+</p> -->
 
 <!-- -------------------- -->
 
 
 
-</br>
+<!-- </br> -->
 <!-- GitHub Stats -->
 
-<h2 align="center">Stats</h2>
+<!-- <h2 align="center">Stats</h2>
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api?username=triposat&theme=react&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=triposat&theme=react&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=triposat&theme=dracula"/>
-</p>
+</p> -->
 
 <!-- ------------------------------ -->
 
