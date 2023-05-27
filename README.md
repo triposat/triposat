@@ -19,6 +19,19 @@ I'm an experienced **Freelance Technical Writer** with **2+** years of experienc
 <!-- ------------------------------------------------------ -->
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- My Latest Blogs Published -->
 
 <h2 align="center">DevOps Blogs ☁ </h2>
@@ -29,19 +42,65 @@ I'm an experienced **Freelance Technical Writer** with **2+** years of experienc
      
 <a href="https://www.freecodecamp.org/news/how-devops-works/" title="What is DevOps? How Development + Operations Helps Teams Work More Efficiently"><img src="https://github.com/triposat/triposat/assets/69134468/9286a9f6-935b-4cd7-b97f-0eed5f87060e" alt="What is DevOps? How Development + Operations Helps Teams Work More Efficiently" width="250px" align="left" /></a>
   
-<!-- ![Getting-Started-With-DevOps--3--1]() -->
-
-
-<!-- </br>
- -->
 <a href="https://www.freecodecamp.org/news/how-devops-works/" title="What is DevOps? How Development + Operations Helps Teams Work More Efficiently"><strong>What is DevOps? How Development + Operations Helps Teams Work More Efficiently</strong></a></br>
-When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors. This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more efficient.
-
+When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors. This general practice is called DevOps. In this tutorial, we will explore what DevOps is and why organizations should have DevOps specialists. We'll also discuss the DevOps lifecycle and compare it with the Agile methodology.
+</p>
 <!-- ------------------------------------- 1st Blog End ------------------------------- -->
 
 </br>
 
+<!--  --------------------------------- 2nd Blog Start ----------------------------------------- -->
+     
+<a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><img src="https://github.com/triposat/triposat/assets/69134468/448f52e1-4456-4f27-8e38-67f56babda26" alt="AWS Basics for DevOps – How to Setup a Linux Machine" width="250px" align="left" /></a>
+  
+<a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><strong>AWS Basics for DevOps – How to Setup a Linux Machine</strong></a></br>
+To create an application like WhatsApp or Facebook, you'd need many servers (30-40), operating system licenses, routers, cables, switches, gateways, air conditioning units, and employees for maintenance. In this article, you will learn how to create a server (instance) on AWS. We will also take a look at how to connect to your AWS instance using Putty.
 </p>
+<!-- ------------------------------------- 2nd Blog End ------------------------------- -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- <p align="left"> -->
 <!-- ---------------------------- 2nd Blog Start -------------------------------- -->
