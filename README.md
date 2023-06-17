@@ -34,7 +34,7 @@ I'm an experienced **Freelance Technical Writer** with **2+** years of experienc
 
 <!-- My Latest Blogs Published -->
 
-<h2 align="center">DevOps Blogs ☁ </h2>
+<h2 align="center">Latest Blogs ☁ </h2>
 
 <p align="left">
 
