@@ -65,6 +65,7 @@ In this tutorial, you will learn how to create a server (instance) on AWS. We wi
 
 <br/>
 <br/>
+<br/>
 <a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="How to Use the TypeScript satisfies Operator"><img src="https://github.com/triposat/triposat/assets/69134468/7cf56b4c-4a71-436a-aab5-742c2a2e0514" alt="How to Use the TypeScript satisfies Operator" width="250px" align="left" /></a>
 <a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="How to Use the TypeScript satisfies Operator"><strong>How to Use the TypeScript satisfies Operator</strong></a></br>
 In this article, you will learn all about this useful TypeScript operator. I'll explain how things were before this operator was available, and why we need it. We'll also explore real-life scenarios where you can use satisfies and the benefits it offers.
