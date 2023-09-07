@@ -52,7 +52,6 @@ In this tutorial, we will explore what DevOps is and why organizations should ha
 
 <br/>
 <br/>
-<br/>  
 <a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><img src="https://github.com/triposat/triposat/assets/69134468/448f52e1-4456-4f27-8e38-67f56babda26" alt="AWS Basics for DevOps – How to Setup a Linux Machine" width="250px" align="left" /></a>
 
 <a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><strong>AWS Basics for DevOps – How to Setup a Linux Machine</strong></a></br>
