@@ -34,7 +34,7 @@ I'm an experienced **Freelance Technical Writer** with **2+** years of experienc
 
 <!-- My Latest Blogs Published -->
 
-<h2 align="center">Latest Blogs ☁ </h2>
+<h2 align="center">Latest Blogs 📝</h2>
 
 <p align="left">
 
@@ -52,19 +52,25 @@ In this tutorial, we will explore what DevOps is and why organizations should ha
 
 <br/>
 <br/>
-<a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><img src="https://github.com/triposat/triposat/assets/69134468/448f52e1-4456-4f27-8e38-67f56babda26" alt="AWS Basics for DevOps – How to Setup a Linux Machine" width="250px" align="left" /></a>
+<a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><img src="https://github.com/triposat/triposat/assets/69134468/448f52e1-4456-4f27-8e38-67f56babda26" alt="AWS Basics for DevOps – How to Setup a Linux Machine" width="250px" align="left" /></a>
 
-<a href="https://www.freecodecamp.org/news/aws-basics-for-devops/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><strong>AWS Basics for DevOps – How to Setup a Linux Machine</strong></a></br>
+<a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="AWS Basics for DevOps – How to Setup a Linux Machine"><strong>AWS Basics for DevOps – How to Setup a Linux Machine</strong></a></br>
 In this tutorial, you will learn how to create a server (instance) on AWS. We will also take a look at how to connect to your AWS instance using Putty.
 </p>
 <!-- ------------------------------------- 2nd Blog End ------------------------------- -->
 
 
 
+<!--  --------------------------------- 3rd Blog Start ----------------------------------------- -->
 
+<br/>
+<br/>
+<a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="How to Use the TypeScript satisfies Operator"><img src="https://github.com/triposat/triposat/assets/69134468/7cf56b4c-4a71-436a-aab5-742c2a2e0514" alt="How to Use the TypeScript satisfies Operator" width="250px" align="left" /></a>
 
-
-
+<a href="https://www.freecodecamp.org/news/typescript-satisfies-operator/" title="How to Use the TypeScript satisfies Operator"><strong>How to Use the TypeScript satisfies Operator</strong></a></br>
+In this article, you will learn all about this useful TypeScript operator. I'll explain how things were before this operator was available, and why we need it. We'll also explore real-life scenarios where you can use satisfies and the benefits it offers.
+</p>
+<!-- ------------------------------------- 3rd Blog End ------------------------------- -->
 
 
 
