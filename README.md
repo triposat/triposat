@@ -3,7 +3,7 @@ I am a junior Python developer with a passion for technical writing. I have coll
 
 More than 30 blog posts are currently ranking at the top of Google search results.
 
-I am seeking an intern or junior developer position to gain real-world experience and collaborate with other developers.
+Currently, I am seeking an intern or junior developer position to gain real-world experience and collaborate with other developers.
 
 ### Technologies I Know:
 - Programming Languages: C, Python
