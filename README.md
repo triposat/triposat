@@ -15,3 +15,7 @@ I'm looking for an internship or junior role where I can learn and collaborate w
 - Docker (for containerization)
 - PostgreSQL database
 - RabbitMQ
+
+### Latest Blogs:
+- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
+- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
