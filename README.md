@@ -1,9 +1,5 @@
 ### About Me
-I am a junior Data Engineer with a passion for technical writing. I have collaborated with over 20 startups and delivered [130+ blogs](https://github.com/triposat/published-blogs) on Python, web scraping, automation, visualization, and back-end development.
-
-More than 30 blog posts currently rank at the top of Google search results.
-
-I am seeking an intern or junior developer position to gain real-world experience and collaborate with other developers.
+I am a junior Data Engineer with a passion for technical writing. I have collaborated with over 20 startups and delivered [130+ blogs](https://github.com/triposat/published-blogs) on Python, web scraping, automation, visualization, and back-end development. Over 30 blog posts rank top in Google search results.
 
 ### Technologies I Know:
 - Programming Languages: C, Python
