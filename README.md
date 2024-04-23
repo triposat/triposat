@@ -1,5 +1,5 @@
 ### About Me
-I am a junior Python developer with a passion for technical writing. I have collaborated with over 20 startups and delivered [130+ blogs](https://github.com/triposat/published-blogs) on Python, web scraping, automation, visualization, and back-end development.
+I am a junior Data Engineer with a passion for technical writing. I have collaborated with over 20 startups and delivered [130+ blogs](https://github.com/triposat/published-blogs) on Python, web scraping, automation, visualization, and back-end development.
 
 More than 30 blog posts currently rank at the top of Google search results.
 
