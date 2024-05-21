@@ -15,8 +15,8 @@ I am a junior Data Engineer with a passion for technical writing. I have collabo
 - PostgreSQL
 
 ### Latest Blogs:
-- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
-- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
-- [Python Cache: Complete Guide](https://blog.apify.com/python-cache-complete-guide/)
+- [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/)
+- [How to do web crawling in Python](https://blog.apify.com/python-webcrawling/)
+- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 
 PS: Search "Satyam Tripathi Blog" on Google.
