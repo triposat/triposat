@@ -1,4 +1,4 @@
-👋 Hello, I'm Satyam Tripathi.
+👋 Hello, I'm Satyam!
 
 As a 23-year-old Python Developer, Technical Blogger, and Content Strategist, I specialize in web data collection and have developed expertise in delivering high-impact content for various clients.
 
