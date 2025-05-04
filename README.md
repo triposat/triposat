@@ -17,7 +17,7 @@ I'm a **Developer Educator** specializing in making complex developer tools and 
     * **Go:** (Libraries: Colly, Goquery, net/http (Std Lib), Chromedp)
     * **JavaScript (Node.js):** (Libraries: Puppeteer, Playwright, Axios, Node-fetch, Cheerio)
     * **Supporting Technologies:** Proxies, Anti-bot Evasion Techniques, Antidetect Browsers
-* **Artificial Intelligence:** AI Agents, Large Language Models (LLMs)
+* **Artificial Intelligence:** AI Agents, Large Language Models (LLMs), Model Context Protocol (MCP)
 * **Cloud & Infrastructure:** AWS
 * **Data & Visualization:** Looker Studio, Tableau, Power BI
 * **Development Operations & Collaboration:**
