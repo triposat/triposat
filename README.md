@@ -19,7 +19,7 @@ I'm a **Developer Educator** specializing in making complex developer tools and 
     * **Supporting Technologies:** Proxies, Anti-bot Evasion Techniques, Antidetect Browsers
 * **Artificial Intelligence:** AI Agents, Large Language Models (LLMs)
 * **Cloud & Infrastructure:** AWS
-* **Data & Visualization:** Looker Studio
+* **Data & Visualization:** Looker Studio, Tableau, Power BI
 * **Development Operations & Collaboration:**
     * **Version Control:** Git
     * **Documentation:** Markdown, MkDocs, Docusaurus, GitBook
