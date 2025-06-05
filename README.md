@@ -27,10 +27,10 @@ I'm a **Developer Educator** specializing in making complex developer tools and 
 
 ### 💼 **Experience Snapshot**
 
-* **Developer Educator** | *Massive Computing*
+* **Developer Advocate** | *Massive Computing*
     * Develop tutorials, documentation, and educational resources for developers.
     * Provide technical user support, troubleshoot issues, and gather feedback.
-* **Freelance Developer Educator** | Self-Employed
+* **Content Specielist** | Self-Employed
     * Partnered with 8+ web data companies (including industry pioneers), creating specialized technical content.
 
 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/triposat/) or [Email Address](mailto:tripathisatyam5721@gmail.com)!
