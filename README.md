@@ -6,7 +6,7 @@ I'm a **Technical Content Specialist & Developer Advocate** who simplifies compl
 
 ### ✨ **Core Expertise**
 
-* **Developer Education & Content Creation:** Design and write developer-focused content including technical documentation, tutorials, case studies, integration guides, and knowledge base articles
+* **Developer Education & Content Creation:** Design and write developer-focused content, including technical documentation, tutorials, case studies, integration guides, and knowledge base articles
 * **Content Strategy & Developer Experience:** Plan and optimize technical content across formats to enhance developer onboarding and success
 * **Cross-Functional Collaboration:** Partner with Engineering, Product, and Marketing teams to align technical communication
 
@@ -36,7 +36,7 @@ I'm a **Technical Content Specialist & Developer Advocate** who simplifies compl
     * Develop integration guides and knowledge base resources
     * Troubleshoot complex issues and gather user feedback
 
-* **Technical Content Specialist** | Independent Consultant | 2022-Present
+* **Technical Content Specialist** | Independent Consultant | 2023-Present
     * Partnered with 8+ web data companies to produce specialized content
     * Created 200+ technical tutorials and guides
 
