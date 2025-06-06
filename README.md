@@ -1,6 +1,6 @@
 👋 **Hey, I’m Satyam**
 
-I'm a **Developer Educator** specializing in making complex developer tools and concepts simpler and more accessible. I create clear tutorials, documentation, and engaging content that helps developers succeed and builds trust.
+I'm a **Content & Developer Advocate** specializing in making complex developer tools and concepts simpler and more accessible. I create clear tutorials, documentation, and engaging content that helps developers succeed and builds trust.
 
 📌 [View My Work →](https://github.com/triposat/published-blogs)
 
