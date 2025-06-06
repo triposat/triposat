@@ -1,4 +1,4 @@
-👋 **Hey, I’m Satyam**
+**Namaskar** 🙏
 
 I'm a **Content & Developer Advocate** specializing in making complex developer tools and concepts simpler and more accessible. I create clear tutorials, documentation, and engaging content that helps developers succeed and builds trust.
 
