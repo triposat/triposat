@@ -31,12 +31,13 @@ I'm a **Technical Content Specialist & Developer Advocate** who simplifies compl
 
 ### 💼 **Experience**
 
-* **Developer Advocate** | Massive Computing | Current
-    * Create technical content including tutorials, case studies, and product documentation
-    * Develop integration guides and knowledge base resources
-    * Troubleshoot complex issues and gather user feedback
+* **Content Specialist** | Massive Computing | Oct 2024  – June 2025
+* Created and maintained developer-focused content, including tutorials, API documentation, case studies, and product landing pages.
+* Collaborated with product, engineering, SEO, and marketing teams—as well as external partners—to drive content strategy and distribution.
+* Reviewed and edited content for clarity, consistency, and alignment with brand voice across multiple channels.
+* Enhanced documentation continuously based on real-world developer feedback and usage patterns.
 
-* **Technical Content Specialist** | Independent Consultant | 2023-Present
+* **Technical Content Specialist** | Independent Consultant | 2023 – Present
     * Partnered with 8+ web data companies to produce specialized content
     * Created 200+ technical tutorials and guides
 
