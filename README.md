@@ -38,7 +38,7 @@ I'm a **Technical Content Specialist & Developer Advocate** who simplifies compl
    * Enhanced documentation continuously based on real-world developer feedback and usage patterns.
 
 * **Technical Content Specialist** | Independent Consultant | 2023 – Present
-    * Partnered with 8+ web data companies to produce specialized content
-    * Created 200+ technical tutorials and guides
+    * Partnered with 8+ web data companies to produce specialized content.
+    * Created 200+ technical tutorials and guides.
 
 📫 Let's collaborate! Reach out via [LinkedIn](https://www.linkedin.com/in/triposat/) or [Email](mailto:tripathisatyam5721@gmail.com) to discuss technical content projects.
