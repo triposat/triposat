@@ -1,6 +1,6 @@
-<img src="assets/banner.png" alt="Satyam Tripathi, developer marketing for web data and AI infrastructure" width="100%">
+<img src="assets/banner.png" alt="Satyam Tripathi, founder of Doccraft. Developer marketing for web data and AI infrastructure." width="100%">
 
-Namaskar 🙏 I'm Satyam. I run [Doccraft](https://doccraft.dev), a developer marketing agency for companies that build web data and AI infrastructure.
+Namaskar. I'm Satyam. I run [Doccraft](https://doccraft.dev), a developer marketing agency for companies that build web data and AI infrastructure.
 
 ### Focus areas
 
