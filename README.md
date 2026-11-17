@@ -1,6 +1,4 @@
-<img src="assets/banner.png" alt="Satyam Tripathi, founder of Doccraft" width="100%">
-
-Namaskar. [Doccraft](https://doccraft.dev) is a developer marketing agency for companies that build web data and AI infrastructure.
+<img src="assets/banner.png" alt="" width="100%">
 
 ### Focus areas
 
@@ -12,6 +10,4 @@ Namaskar. [Doccraft](https://doccraft.dev) is a developer marketing agency for c
 
 ### Work
 
-<img src="assets/chart.svg" width="16" height="16" alt=""> &nbsp;[Original research and benchmarks](https://doccraft.dev/blog), with the data and code<br>
-<img src="assets/pages.svg" width="16" height="16" alt=""> &nbsp;[Published articles](https://github.com/triposat/published-blogs) on the blogs of web data and AI companies<br>
-<img src="assets/mail.svg" width="16" height="16" alt=""> &nbsp;[hello@doccraft.dev](mailto:hello@doccraft.dev)
+<img src="assets/chart.svg" width="16" height="16" alt=""> &nbsp;[Original research and benchmarks](https://doccraft.dev/blog), with the data and code
