@@ -1,8 +1,8 @@
 <img src="assets/banner.png" alt="" width="100%">
 
-Satyam Tripathi is the founder of [Doccraft](https://doccraft.dev). His [articles](https://github.com/triposat/published-blogs) appear on Bright Data, Apify, ScrapingBee, GoLogin and Evomi.
+Satyam Tripathi is the founder of [Doccraft](https://doccraft.dev). His [bylined articles](https://github.com/triposat/published-blogs) appear on Bright Data, Apify, ScrapingBee, GoLogin and Evomi.
 
-## Focus areas
+## Topics
 
 <img src="assets/spider.svg" width="16" height="16" alt=""> &nbsp;[Web scraping APIs and proxies](https://doccraft.dev/topics/web-scraping-apis-and-proxies)<br>
 <img src="assets/browser.svg" width="16" height="16" alt=""> &nbsp;[Browser infrastructure and automation](https://doccraft.dev/topics/browser-infrastructure-and-automation)<br>
@@ -12,4 +12,4 @@ Satyam Tripathi is the founder of [Doccraft](https://doccraft.dev). His [article
 
 ## Work
 
-<img src="assets/chart.svg" width="16" height="16" alt=""> &nbsp;[Original research and benchmarks](https://doccraft.dev/blog), with the data and code
+<img src="assets/chart.svg" width="16" height="16" alt=""> &nbsp;[Original research and benchmarks](https://doccraft.dev/blog), with the data and reproducible code
